@@ -5,6 +5,7 @@ CENTOS 7
 
 # PACOTES
 
+```sh
 curl -O http://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 curl -O http://rpms.remirepo.net/enterprise/remi-release-7.rpm
 curl -O https://repo.zabbix.com/zabbix/5.0/rhel/7/x86_64/zabbix-release-5.0-1.el7.noarch.rpm
@@ -16,6 +17,7 @@ curl -sL https://dl.yarnpkg.com/rpm/yarn.repo | sudo tee /etc/yum.repos.d/yarn.r
 rpm --import https://packages.erlang-solutions.com/rpm/erlang_solutions.asc
 rpm --import http://www.webmin.com/jcameron-key.asc
 yum -y install *.rpm && yum -y install yum-utils && yum-config-manager --enable remi && yum-config-manager --enable epel && yum-config-manager --enable zabbix && yum install -y yarn && yum -y install wget vim-enhanced zip unzip htop iotop tcpdump telnet links nfs-utils erlang zabbix-agent
+```
 
 # NODE|YARN|YUM-UTILS
 
