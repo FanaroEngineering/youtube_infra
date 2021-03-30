@@ -3,7 +3,7 @@
 
 CENTOS 7
 
-##PACOTES
+# PACOTES
 
 curl -O http://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
 curl -O http://rpms.remirepo.net/enterprise/remi-release-7.rpm
@@ -17,18 +17,18 @@ rpm --import https://packages.erlang-solutions.com/rpm/erlang_solutions.asc
 rpm --import http://www.webmin.com/jcameron-key.asc
 yum -y install *.rpm && yum -y install yum-utils && yum-config-manager --enable remi && yum-config-manager --enable epel && yum-config-manager --enable zabbix && yum install -y yarn && yum -y install wget vim-enhanced zip unzip htop iotop tcpdump telnet links nfs-utils erlang zabbix-agent
 
-##NODE|YARN|YUM-UTILS
+# NODE|YARN|YUM-UTILS
 
 yum install -y yarn yum-utils
 
-##ENABLING REPOS
+# ENABLING REPOS
 
 yum-config-manager --enable remi
 yum-config-manager --enable epel
 yum-config-manager --enable zabbix
 yum-config-manager --enable remi-php74
 
-##UPGRADE CENTOS 7
+# UPGRADE CENTOS 7
 
 yum -y install net-snmp
 
