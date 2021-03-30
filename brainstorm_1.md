@@ -1,10 +1,5 @@
 # Brainstorm #1 - Browsers
 
-1. Topico
-1. Topico
-1. alsdkfj
-1. Topico
-1. asldkfj
 
 * [aasldkfj](#aasldkfj)
   * [laksjdf](#laksjdf)
