@@ -42,6 +42,17 @@ Um esboço de índice seria:
         - Browsers são *a* ferramenta utilizada no dia a dia de cada um. É importante e muito útil ir além do b-a-bá.
 1. Primeiros 10 min com uma visão rápida da história dos browsers.
 1. Passamos por cada uma das décadas novamente, inclusive inserindo nossas perspectivas e memórias.
+    - Eventos importantes:
+        1. Browser Mosaic é uma primeira versão um pouco mais agradável de um browser
+        1. Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
+        1. Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
+            - Enquanto isso, ela também se debatia com as alegações de ~~monopólio~~ (*antitrust*).
+        1. Mozilla (Mosaic Killa) é criado com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
+            - Um dos primeiros massivos diferenciais foi a funcionalidade de extensões.
+        1. Google lança o Chrome, que possui muito melhor performance e acompanha os outros produtos do ecossistema.
+            - Google Chrome já vem com dispositivos spyware no próprio código.
+        1. Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
+        1. 2020: Firefox morre e Google colhe os pedaços. IE é descontinuado.
 1. Novas soluções e alternativas ao Internet Explorer e ao Chrome
     - Hugo: Edge
     - Eu: Brave
