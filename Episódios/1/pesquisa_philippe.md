@@ -45,14 +45,17 @@ Um esboço de índice seria:
     - Eventos importantes:
         1. Browser Mosaic é uma primeira versão um pouco mais agradável de um browser
         1. Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
+            - Aqui GUGA pode falar sobre experiências, primeiro contato com a WEB e uso do Netscape navigator e Internet Explorer já na era Windows 95+
         1. Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
             - Enquanto isso, ela também se debatia com as alegações de ~~monopólio~~ (*antitrust*).
+            - Aqui GUGA pode falar de quando o Windows 95 entrou em sua casa já com um navegador embarcado o Netscape sumiu.
         1. Mozilla (Mosaic Killa) é criado com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
             - Um dos primeiros massivos diferenciais foi a funcionalidade de extensões.
+            - Aqui GUGA fala do seu primeiro contato com o Firefox, já estamos nos 2000's a Onda agora é outra...
         1. Google lança o Chrome, que possui muito melhor performance e acompanha os outros produtos do ecossistema.
             - Google Chrome já vem com dispositivos spyware no próprio código.
         1. Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
-        1. 2020: Firefox morre e Google colhe os pedaços. IE é descontinuado.
+        1. 2020: Firefox morre e Google colhe os pedaços. IE é descontinuado. Microsoft apela ao chromium (nasce o Edge).
 1. Novas soluções e alternativas ao Internet Explorer e ao Chrome
     - Hugo: Edge
     - Eu: Brave
