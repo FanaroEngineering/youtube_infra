@@ -18,6 +18,8 @@
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo.
         - De longe uma das séries mais emocionantes e bem feitas que eu já vi. Os criadores inclusive tinham uma equipe super hardcore de especialistas em TI.
+    - [Silicon Valley][silicon_valley]
+        - Web distribuída e decentrelizada.
 
 
 [brendan_eich_lex_fridman]: https://youtu.be/krB0enBeSiE
@@ -26,6 +28,7 @@
 [fireship_js]: https://youtu.be/Sh6lK57Cuk4
 [halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
 [michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
+[silicon_valley]: https://www.imdb.com/title/tt2575988/
 [tecmundo_guerra_navegadores]: https://youtu.be/3yTDZTKwj-o
 [wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
 [wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
@@ -43,6 +46,7 @@ Um esboço de índice seria:
 1. Primeiros 10 min com uma visão rápida da história dos browsers.
 1. Passamos por cada uma das décadas novamente, inclusive inserindo nossas perspectivas e memórias.
     - Eventos importantes:
+        1. <origem dos browsers>
         1. Browser Mosaic é uma primeira versão um pouco mais agradável de um browser
         1. Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
         1. Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
