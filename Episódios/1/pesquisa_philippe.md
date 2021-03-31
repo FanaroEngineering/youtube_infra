@@ -15,15 +15,16 @@
     - [TecMundo - A história da guerra dos navegadores][tecmundo_guerra_navegadores]
     - [Lex Fridman - Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160][brendan_eich_lex_fridman]
 - Séries de TV
-    - Halt and Catch Fire
+    - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo.
         - De longe uma das séries mais emocionantes e bem feitas que eu já vi. Os criadores inclusive tinham uma equipe super hardcore de especialistas em TI.
 
 
 [brendan_eich_lex_fridman]: https://youtu.be/krB0enBeSiE
+[captain_gizmo_data_visualization]: https://youtu.be/W4wWdmfOibY
 [coldfusion_internet]: https://youtu.be/8sTy8466MoE
 [fireship_js]: https://youtu.be/Sh6lK57Cuk4
-[captain_gizmo_data_visualization]: https://youtu.be/W4wWdmfOibY
+[halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
 [michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
 [tecmundo_guerra_navegadores]: https://youtu.be/3yTDZTKwj-o
 [wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
