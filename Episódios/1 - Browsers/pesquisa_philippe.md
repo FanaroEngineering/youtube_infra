@@ -8,13 +8,14 @@ Um esboço de índice seria:
     - De onde vem a ideia deste podcast?
         - Da vontade de se ter um meio termo entre um vídeo muito bem produzido e suscinto sobre o assunto e uma conversa informal porém bem informada.
         - O podcast é desenvolvido na filosofia do código aberto, ou seja, você não só pode visualizar toda a pesquisa e infraestrutura do produto final, como também pode contribuir para sua melhoria.
+        - O formato é mais longo do que o suposto ideal ou necessário, mas também é mais flexível, o que pode fazer com que revelemos mais do que o esperado.
     - Por que este episódio especificamente.
         - Para ajudar aqueles que não possuem o conhecimento técnico necessário ou simplesmente não possuem o interesse em saber mais, pelo menos até agora.
             - Talvez possamos alterar suas respectivas opiniões.
         - Browsers são *a* ferramenta utilizada no dia a dia de cada um. É importante e muito útil ir além do b-a-bá.
 1. Primeiros 10 min com uma visão rápida da história dos browsers.
 1. Passamos por cada uma das décadas novamente, inclusive inserindo nossas perspectivas e memórias.
-    - Eventos importantes:
+    - **Eventos importantes**:
         1. Eventos Preliminares
             - O primeiro email: 1971 (Raymond Tomlinson para ele mesmo)
         1. World-Wide Web web browser (1990), por Tim Berners-Lee, o criador da World Wide Web.
@@ -28,6 +29,8 @@ Um esboço de índice seria:
             - JS foi criado e utilizado pela primeira vez no Netscape.
         1. Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
             - Enquanto isso, ela também se debatia com as alegações de ~~monopólio~~ (*antitrust*).
+                - Leis de antitrust são também conhecidas de leis sobre competição no livre-mercado.
+                    - [Trust vs Cartel][trust_vs_cartel]
                 - Sistema operacional e browser
             - Aqui GUGA pode falar de quando o Windows 95 entrou em sua casa já com um navegador embarcado o Netscape sumiu.
         1. Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
@@ -67,6 +70,8 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 
 - Texto
     - [Wikipédia - History of the web browser][wikipedia_browser_history]
+    - [Trust vs Cartel no English StackExchange][trust_vs_cartel]
+    - [Wikipédia - Competition Law][wikipedia_competition_law]
 - Imagens
     - [Versões de todos os browsers da história][wikipedia_browser_timeline]
         - No entanto, Brave não está lá.
@@ -98,6 +103,8 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 [science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
 [silicon_valley]: https://www.imdb.com/title/tt2575988/
 [tecmundo_guerra_navegadores]: https://youtu.be/3yTDZTKwj-o
+[trust_vs_cartel]: https://english.stackexchange.com/q/15080/120424
 [wall_street_journal_antitrust]: https://youtu.be/frA5_sTj_8A
 [wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
 [wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
+[wikipedia_competition_law]: https://en.wikipedia.org/wiki/Competition_law
