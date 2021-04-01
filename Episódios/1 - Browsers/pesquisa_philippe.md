@@ -47,6 +47,8 @@
             1. 1991:
                 - Al Gore passa um orçamento de mais de US$ 600 milhões para criar uma superinfraestrutura para a internet.
                 - A World Wide Web é aberta ao público pela primeira vez.
+                - Criação do protocolo Gopher.
+            1. 1992: criação do browser de terminal Lynx.
             1. 1993:
                 - Padronização do DSL (conexão à internet via linha telefônica)
                 - Browser Mosaic
