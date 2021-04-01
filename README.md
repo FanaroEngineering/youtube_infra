@@ -1,6 +1,6 @@
-# Infraestrutura do Canal de YouTube
+# Infraestrutura do Canal Philippe Fanaro de YouTube
 
-A princípio, os vídeos estarão no canal [*Philippe Fanaro*][youtube], porém, eles poderão acabar indo para um outro canal, criado somente para manter o podcast.
+A princípio, os vídeos do podcast estarão no canal [*Philippe Fanaro*][youtube], porém eles poderão acabar indo para um outro canal, criado somente para manter o podcast.
 
 ## Processo de Criação
 
