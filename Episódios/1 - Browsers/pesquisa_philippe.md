@@ -1,44 +1,5 @@
 # Pesquisa para o Episódio sobre Browsers
 
-## Referências
-
-- Texto
-    - [Wikipedia - History of the web browser][wikipedia_browser_history]
-- Imagens
-    - [Versões de todos os browsers da história][wikipedia_browser_timeline]
-        - No entanto, Brave não está lá.
-- Vídeos
-    - [ColdFusion - A Brief History of the Internet - First Website, First Meme..][coldfusion_internet]
-    - [Michael MJD - The Rise and Fall of Netscape – The Browser That Once Ruled Them All (A Retrospective)][michael_mjd_netscape]
-    - [Captain Gizmo - Most Popular Web Browsers 1993 - 2020][captain_gizmo_data_visualization]
-    - [Fireship - The Weird History of JavaScript][fireship_js]
-    - [TecMundo - A história da guerra dos navegadores][tecmundo_guerra_navegadores]
-    - [Lex Fridman - Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160][brendan_eich_lex_fridman]
-    - [DistroTube - Searching For The Right Minimal Browser][distrotube_minimal_browsers]
-    - [The Science Elf - The Microsoft Monopoly][science_elf_microsoft_monopoly]
-    - [Wall Street Journal - What Facebook, Google and Others Can Learn From Microsoft’s Antitrust Case][wall_street_journal_antitrust]
-- Séries de TV
-    - [Halt and Catch Fire][halt_and_catch_fire]
-        - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo.
-        - De longe uma das séries mais emocionantes e bem feitas que eu já vi. Os criadores inclusive tinham uma equipe super hardcore de especialistas em TI.
-    - [Silicon Valley][silicon_valley]
-        - Web distribuída e decentrelizada.
-
-
-[brendan_eich_lex_fridman]: https://youtu.be/krB0enBeSiE
-[captain_gizmo_data_visualization]: https://youtu.be/W4wWdmfOibY
-[coldfusion_internet]: https://youtu.be/8sTy8466MoE
-[distrotube_minimal_browsers]: https://youtu.be/b8kxdiskGzI
-[fireship_js]: https://youtu.be/Sh6lK57Cuk4
-[halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
-[michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
-[science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
-[silicon_valley]: https://www.imdb.com/title/tt2575988/
-[tecmundo_guerra_navegadores]: https://youtu.be/3yTDZTKwj-o
-[wall_street_journal_antitrust]: https://youtu.be/frA5_sTj_8A
-[wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
-[wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
-
 ## Índice do Episódio
 
 Um esboço de índice seria:
@@ -97,3 +58,42 @@ Um esboço de índice seria:
 [surf]: https://surf.suckless.org/
 [vimb]: https://fanglingsu.github.io/vimb/
 [vimium]: https://vimium.github.io/
+
+## Referências
+
+- Texto
+    - [Wikipedia - History of the web browser][wikipedia_browser_history]
+- Imagens
+    - [Versões de todos os browsers da história][wikipedia_browser_timeline]
+        - No entanto, Brave não está lá.
+- Vídeos
+    - [ColdFusion - A Brief History of the Internet - First Website, First Meme..][coldfusion_internet]
+    - [Michael MJD - The Rise and Fall of Netscape – The Browser That Once Ruled Them All (A Retrospective)][michael_mjd_netscape]
+    - [Captain Gizmo - Most Popular Web Browsers 1993 - 2020][captain_gizmo_data_visualization]
+    - [Fireship - The Weird History of JavaScript][fireship_js]
+    - [TecMundo - A história da guerra dos navegadores][tecmundo_guerra_navegadores]
+    - [Lex Fridman - Brendan Eich: JavaScript, Firefox, Mozilla, and Brave | Lex Fridman Podcast #160][brendan_eich_lex_fridman]
+    - [DistroTube - Searching For The Right Minimal Browser][distrotube_minimal_browsers]
+    - [The Science Elf - The Microsoft Monopoly][science_elf_microsoft_monopoly]
+    - [Wall Street Journal - What Facebook, Google and Others Can Learn From Microsoft’s Antitrust Case][wall_street_journal_antitrust]
+- Séries de TV
+    - [Halt and Catch Fire][halt_and_catch_fire]
+        - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo.
+        - De longe uma das séries mais emocionantes e bem feitas que eu já vi. Os criadores inclusive tinham uma equipe super hardcore de especialistas em TI.
+    - [Silicon Valley][silicon_valley]
+        - Web distribuída e decentrelizada.
+
+
+[brendan_eich_lex_fridman]: https://youtu.be/krB0enBeSiE
+[captain_gizmo_data_visualization]: https://youtu.be/W4wWdmfOibY
+[coldfusion_internet]: https://youtu.be/8sTy8466MoE
+[distrotube_minimal_browsers]: https://youtu.be/b8kxdiskGzI
+[fireship_js]: https://youtu.be/Sh6lK57Cuk4
+[halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
+[michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
+[science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
+[silicon_valley]: https://www.imdb.com/title/tt2575988/
+[tecmundo_guerra_navegadores]: https://youtu.be/3yTDZTKwj-o
+[wall_street_journal_antitrust]: https://youtu.be/frA5_sTj_8A
+[wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
+[wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
