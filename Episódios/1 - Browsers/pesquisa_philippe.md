@@ -2,8 +2,6 @@
 
 ## Índice do Episódio
 
-Um esboço de índice seria:
-
 1. **Motivação e Contexto**
     - De onde vem a ideia deste podcast?
         - Da vontade de se ter um meio termo entre um vídeo muito bem produzido e suscinto sobre o assunto e uma conversa informal porém bem informada.
@@ -16,8 +14,104 @@ Um esboço de índice seria:
 1. Primeiros 10 min com uma visão rápida da história dos browsers.
 1. Passamos por cada uma das décadas novamente, inclusive inserindo nossas perspectivas e memórias.
     - **Eventos importantes**:
-        1. Eventos Preliminares
-            - O primeiro email: 1971 (Raymond Tomlinson para ele mesmo)
+        1. Linha do Tempo, com eventos relacionados intercalados, para dar ainda mais contexto aos eventos.
+            1. 1958: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os eu criam a ARPA (Advanced Research Project Agency).
+            1. 1968: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
+            1. Arpanet começa seu funcionamento em 1969, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
+            1. 1970: Começo da ARPANET europeia.
+            1. 1972:
+                - O primeiro email (Raymond Tomlinson para ele mesmo)
+                - Ethernet
+            1. 1973:
+                - TCP/IP
+                - A University College of London estabelece a primeira conexão ARPANET internacional, entre Londres e a Noruega.
+            1. 1974:
+                - Elizabeth Feinler cria os sufixos .com, .edu, .gov, .mil, .org e .net.
+                - Vint Cerf e Robert Kahn fazem a primeira menção do termo "internet".
+                - Primeira versão pública e comercial da internet.
+            1. 1975: Fundação da Microsoft.
+            1. 1976: Fundação da Apple.
+            1. Nos anos 1980, Lawrence Landweber estabelece conferências para ajudar países em desenvolvimento a se conectar à internet.
+            1. 1982: a Ásia se conecta à internet.
+            1. 1983:
+                - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
+                - Paul Mockapetris inventa o DNS.
+            1. 1987:
+                - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
+                - Douglas Cormer escreve o primeiro livro sobre TCP/IP.
+            1. 1989:
+                - Archie Query, o primeiro buscador da internet.
+                - Tim Berners-Lee cria a World Wide Web.
+            1. 1990: Criação do Linux, a base da imensa maioria dos servidores da internet.
+            1. 1991:
+                - Al Gore passa um orçamento de mais de US$ 600 milhões para criar uma superinfraestrutura para a internet.
+                - A World Wide Web é aberta ao público pela primeira vez.
+            1. 1993:
+                - Padronização do DSL (conexão à internet via linha telefônica)
+                - Browser Mosaic
+            1. 1994:
+                - Primeira versão do Netscape.
+                - Internet na China.
+                - Internet Engineering Task Force (IETF) e o primeiro RFC da Internet (IEEE).
+                - Fundação da Amazon.
+            1. 1995:
+                - Primeira versão do Internet Explorer (IE).
+                - Lançamento do browser Opera.
+                - James Gosling et al. lançam a linguagem de programação Java.
+                - Brendan Eich cria JavaScript de dentro da Netscape.
+                - Windows 95 é lançado.
+                - Fundação do eBay.
+            1. 1996:
+                - VoIP
+                - O Internet Archive, catalogando e distribuindo gratuitamente milhares de livros.
+            1. 1997:
+                - Fundação do Netflix.
+            1. 1998:
+                - Primeira empreas anti-spam.
+                - Primeiras ferramentas de blog para leigos.
+                - Fundação da Google.
+                - Fundação do PayPal.
+            1. 1999:
+                - Fundação da Mozilla
+                - Craigslist
+                - Extensões de browser aparecem pela primeira vez no IE. Firefox começará a suportá-las a partir de 2004.
+            1. 2000:
+                - Internet para a África
+                - Aaron Swartz cria RSS
+            1. 2001:
+                - Aaron Swartz cria o Crative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
+                - Jimmy Wales cria a Wikipédia.
+                - Investigação de Antitrust contra a Microsoft.
+                - A bolha .com explode de vez.
+                - Criação do MacOS.
+                - Windows XP é lançado.
+            1. 2002: Firefox é lançado pela primeira vez.
+            1. 2003:
+                - Morre o Netscape.
+                - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
+            1. 2004:
+                - Fundação do Facebook.
+            1. 2005:
+                - YouTube é criado.
+            1. 2006:
+                - Google compra o YouTube.
+            1. 2007:
+                - Mais longa conexão de Wifi da história: 382 km.
+                - Windows Vista é lançado ao público.
+                - Primeiro iPhone.
+            1. 2008:
+                - Primeira publicação do Google Chrome.
+                - Primeira versão do Android.
+                - Criação do Bitcoin.
+            1. 2010:
+                - China se torna o maior usuário-nação da internet.
+                - Primeiro iPad.
+            1. 2012:
+                - Windows 8 é lançado.
+            1. 2015:
+                - Publicação do browser Microsoft Edge.
+                - Windows 10 é lançado.
+            1. 2019: Primeira publicação do browser Brave.
         1. World-Wide Web web browser (1990), por Tim Berners-Lee, o criador da World Wide Web.
             - O público geral somente ganhou acesso à internet em 1991 na verdade.
             - Interface muito complicada e confusa.
@@ -66,12 +160,14 @@ Um esboço de índice seria:
 
 ## Referências
 
-Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser no YouTube ou na Wikipédia. Talvez eu devesse investigar as referências mencionadas nas páginas da Wikipédia, mas acho que isso vai ficar para uma versão mais aprofundada do assunto no futuro.
+Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser no YouTube ou na Wikipédia, talvez haja algum livro ou especialista no assunto, mas ele é tão nicho e fragmentado que fica difícil realmente encontrá-lo. Talvez eu devesse investigar as referências mencionadas nas páginas da Wikipédia, mas acho que isso vai ficar para uma versão mais aprofundada do assunto no futuro.
 
 - Texto
     - [Wikipédia - History of the web browser][wikipedia_browser_history]
     - [Trust vs Cartel no English StackExchange][trust_vs_cartel]
     - [Wikipédia - Competition Law][wikipedia_competition_law]
+    - [Wikipédia - Browser Wars][wikipedia_browser_wars]
+    - [Wikipédia - United States v. Microsoft Corp][wikipedia_usa_vs_microsoft]
 - Imagens
     - [Versões de todos os browsers da história][wikipedia_browser_timeline]
         - No entanto, Brave não está lá.
@@ -85,6 +181,7 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
     - [DistroTube - Searching For The Right Minimal Browser][distrotube_minimal_browsers]
     - [The Science Elf - The Microsoft Monopoly][science_elf_microsoft_monopoly]
     - [Wall Street Journal - What Facebook, Google and Others Can Learn From Microsoft’s Antitrust Case][wall_street_journal_antitrust]
+    - [Internet Timeline - Linha do Tempo da Internet][internet_timeline]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo.
@@ -99,6 +196,7 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 [distrotube_minimal_browsers]: https://youtu.be/b8kxdiskGzI
 [fireship_js]: https://youtu.be/Sh6lK57Cuk4
 [halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
+[internet_timeline]: https://www.internethalloffame.org/internet-history/timeline
 [michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
 [science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
 [silicon_valley]: https://www.imdb.com/title/tt2575988/
@@ -107,4 +205,6 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 [wall_street_journal_antitrust]: https://youtu.be/frA5_sTj_8A
 [wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
 [wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
+[wikipedia_browser_wars]: https://en.wikipedia.org/wiki/Browser_wars
 [wikipedia_competition_law]: https://en.wikipedia.org/wiki/Competition_law
+[wikipedia_usa_vs_microsoft]: https://en.wikipedia.org/wiki/Browser_wars
