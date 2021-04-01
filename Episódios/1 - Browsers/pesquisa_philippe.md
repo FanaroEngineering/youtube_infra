@@ -168,6 +168,9 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
     - [Wikipédia - Competition Law][wikipedia_competition_law]
     - [Wikipédia - Browser Wars][wikipedia_browser_wars]
     - [Wikipédia - United States v. Microsoft Corp][wikipedia_usa_vs_microsoft]
+    - [Internet Timeline - Linha do Tempo da Internet][internet_timeline]
+    - [Investopedia - Dotcom Bubble][investopedia_dotcom_bubble]
+    - [Thomas Jefferson Universiy - Internet History Timeline][jefferson_timeline]
 - Imagens
     - [Versões de todos os browsers da história][wikipedia_browser_timeline]
         - No entanto, Brave não está lá.
@@ -181,7 +184,8 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
     - [DistroTube - Searching For The Right Minimal Browser][distrotube_minimal_browsers]
     - [The Science Elf - The Microsoft Monopoly][science_elf_microsoft_monopoly]
     - [Wall Street Journal - What Facebook, Google and Others Can Learn From Microsoft’s Antitrust Case][wall_street_journal_antitrust]
-    - [Internet Timeline - Linha do Tempo da Internet][internet_timeline]
+    - [Wikipédia - Arthur C. Clarke Predicts the Internet and the PC][wikipedia_clarke]
+    - [Wikipédia - History of the Internet][wikipedia_internet_history]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo.
@@ -197,6 +201,8 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 [fireship_js]: https://youtu.be/Sh6lK57Cuk4
 [halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
 [internet_timeline]: https://www.internethalloffame.org/internet-history/timeline
+[investopedia_dotcom_bubble]: https://www.investopedia.com/terms/d/dotcom-bubble.asp
+[jefferson_timeline]: https://online.jefferson.edu/business/internet-history-timeline/
 [michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
 [science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
 [silicon_valley]: https://www.imdb.com/title/tt2575988/
@@ -206,5 +212,7 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 [wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
 [wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
 [wikipedia_browser_wars]: https://en.wikipedia.org/wiki/Browser_wars
+[wikipedia_clarke]: https://en.wikipedia.org/wiki/File:ABC_Clarke_predicts_internet_and_PC.ogv
+[wikipedia_internet_history]: https://en.wikipedia.org/wiki/History_of_the_Internet
 [wikipedia_competition_law]: https://en.wikipedia.org/wiki/Competition_law
 [wikipedia_usa_vs_microsoft]: https://en.wikipedia.org/wiki/Browser_wars
