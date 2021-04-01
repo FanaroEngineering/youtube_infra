@@ -54,7 +54,7 @@ Um esboço de índice seria:
     - Eventos importantes:
         1. Eventos Preliminares
             - O primeiro email: 1971 (Raymond Tomlinson para ele mesmo)
-        1. World-Wide Web web browser (1990), por Tim Berners-Lee, o criador da WWW.
+        1. World-Wide Web web browser (1990), por Tim Berners-Lee, o criador da World Wide Web.
             - O público geral somente ganhou acesso à internet em 1991 na verdade.
             - Interface muito complicada e confusa.
                 - Era baseada no sistema operacional NEXT &mdash; empresa criada pelo Steve Jobs quando ele foi demitido de sua própria empresa &mdash;, que seria comprado pela Apple e utilizado como base para seus próximos sistemas operacionais, quando o Steve Jobs voltou como CEO.
@@ -83,6 +83,7 @@ Um esboço de índice seria:
     - [qutebrowser][qutebrowser]
     - [vimb][vimb]
         - [cVim][cvim]
+        - [Vimium][vimium]
     - [lynx][lynx]
     - [gopher][gopher]
     - [surf][surf]
@@ -95,3 +96,4 @@ Um esboço de índice seria:
 [qutebrowser]: https://qutebrowser.org/
 [surf]: https://surf.suckless.org/
 [vimb]: https://fanglingsu.github.io/vimb/
+[vimium]: https://vimium.github.io/
