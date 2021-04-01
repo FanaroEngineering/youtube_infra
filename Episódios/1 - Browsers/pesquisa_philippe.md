@@ -35,6 +35,7 @@
             1. 1982: a Ásia se conecta à internet.
             1. 1983:
                 - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
+                    - TCP/IP está em uma camada superior de abstração, o que faz com que ele consiga unificar diferentes outros sistemas de camada inferior.
                 - Paul Mockapetris inventa o DNS.
             1. 1987:
                 - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
