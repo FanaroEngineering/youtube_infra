@@ -6,6 +6,8 @@ Um esboço de índice seria:
 
 1. **Motivação e Contexto**
     - De onde vem a ideia deste podcast?
+        - Da vontade de se ter um meio termo entre um vídeo muito bem produzido e suscinto sobre o assunto e uma conversa informal porém bem informada.
+        - O podcast é desenvolvido na filosofia do código aberto, ou seja, você não só pode visualizar toda a pesquisa e infraestrutura do produto final, como também pode contribuir para sua melhoria.
     - Por que este episódio especificamente.
         - Para ajudar aqueles que não possuem o conhecimento técnico necessário ou simplesmente não possuem o interesse em saber mais, pelo menos até agora.
             - Talvez possamos alterar suas respectivas opiniões.
@@ -61,8 +63,10 @@ Um esboço de índice seria:
 
 ## Referências
 
+Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser no YouTube ou na Wikipédia. Talvez eu devesse investigar as referências mencionadas nas páginas da Wikipédia, mas acho que isso vai ficar para uma versão mais aprofundada do assunto no futuro.
+
 - Texto
-    - [Wikipedia - History of the web browser][wikipedia_browser_history]
+    - [Wikipédia - History of the web browser][wikipedia_browser_history]
 - Imagens
     - [Versões de todos os browsers da história][wikipedia_browser_timeline]
         - No entanto, Brave não está lá.
