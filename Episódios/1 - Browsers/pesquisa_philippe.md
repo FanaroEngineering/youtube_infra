@@ -11,7 +11,6 @@
         - Para ajudar aqueles que não possuem o conhecimento técnico necessário ou simplesmente não possuem o interesse em saber mais, pelo menos até agora.
             - Talvez possamos alterar suas respectivas opiniões.
         - Browsers são *a* ferramenta utilizada no dia a dia de cada um. É importante e muito útil ir além do b-a-bá.
-1. Primeiros 10 min com uma visão rápida da história dos browsers.
 1. Passamos por cada uma das décadas novamente, inclusive inserindo nossas perspectivas e memórias.
     - **Eventos importantes**:
         1. Linha do Tempo, com eventos relacionados intercalados, para dar ainda mais contexto aos eventos.
@@ -69,7 +68,7 @@
             1. 1997:
                 - Fundação do Netflix.
             1. 1998:
-                - Primeira empreas anti-spam.
+                - Primeira empresa anti-spam.
                 - Primeiras ferramentas de blog para leigos.
                 - Fundação da Google.
                 - Fundação do PayPal.
@@ -81,7 +80,7 @@
                 - Internet para a África
                 - Aaron Swartz cria RSS
             1. 2001:
-                - Aaron Swartz cria o Crative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
+                - Aaron Swartz cria o Creative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
                 - Jimmy Wales cria a Wikipédia.
                 - Investigação de Antitrust contra a Microsoft.
                 - A bolha .com explode de vez.
@@ -122,7 +121,7 @@
         1. Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
             - Aqui GUGA pode falar sobre experiências, primeiro contato com a WEB e uso do Netscape navigator e Internet Explorer já na era Windows 95+
             - Netscape era desnecessariamente excessivo (bloatware). Quando o mercado não facilitava para o Netscape, ele entupia a UI/UX com mais funcionalidades.
-            - JS foi criado e utilizado pela primeira vez no Netscape.
+            - JS foi criado e utilizado pela primeira vez no Netscape &mdash; em 10 dias!
         1. Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
             - Enquanto isso, ela também se debatia com as alegações de ~~monopólio~~ (*antitrust*).
                 - Leis de antitrust são também conhecidas de leis sobre competição no livre-mercado.
@@ -190,7 +189,7 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
     - [Wikipédia - History of the Internet][wikipedia_internet_history]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
-        - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo.
+        - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo/Google.
         - De longe uma das séries mais emocionantes e bem feitas que eu já vi. Os criadores inclusive tinham uma equipe super hardcore de especialistas em TI.
     - [Silicon Valley][silicon_valley]
         - Web distribuída e decentrelizada.
