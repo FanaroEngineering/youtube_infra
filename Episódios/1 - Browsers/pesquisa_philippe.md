@@ -15,7 +15,7 @@
 1. Passamos por cada uma das décadas novamente, inclusive inserindo nossas perspectivas e memórias.
     - **Eventos importantes**:
         1. Linha do Tempo, com eventos relacionados intercalados, para dar ainda mais contexto aos eventos.
-            1. 1958: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os eu criam a ARPA (Advanced Research Project Agency).
+            1. 1958: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
             1. 1968: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
             1. Arpanet começa seu funcionamento em 1969, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
             1. 1970: Começo da ARPANET europeia.
