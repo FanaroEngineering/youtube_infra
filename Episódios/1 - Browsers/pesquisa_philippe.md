@@ -17,7 +17,7 @@
         1. Linha do Tempo, com eventos relacionados intercalados, para dar ainda mais contexto aos eventos.
             1. 1958: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
             1. 1968: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
-            1. Arpanet começa seu funcionamento em 1969, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
+            1. 1969: Arpanet começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
             1. 1970: Começo da ARPANET europeia.
             1. 1972:
                 - O primeiro email (Raymond Tomlinson para ele mesmo)
@@ -31,7 +31,6 @@
                 - Primeira versão pública e comercial da internet.
             1. 1975: Fundação da Microsoft.
             1. 1976: Fundação da Apple.
-            1. Nos anos 1980, Lawrence Landweber estabelece conferências para ajudar países em desenvolvimento a se conectar à internet.
             1. 1982: a Ásia se conecta à internet.
             1. 1983:
                 - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
@@ -99,7 +98,7 @@
             1. 2006:
                 - Google compra o YouTube.
             1. 2007:
-                - Mais longa conexão de Wifi da história: 382 km.
+                - Mais longa conexão de Wi-Fi da história: 382 km.
                 - Windows Vista é lançado ao público.
                 - Primeiro iPhone.
             1. 2008:
