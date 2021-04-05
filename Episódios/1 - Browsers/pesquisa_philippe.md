@@ -2,7 +2,7 @@
 
 ## 0. Pesquisa
 
-- [ ] É possível converter (facilmente) esta pesquisa em apresentação com algo como [pandoc][pandoc]
+- [ ] É possível converter (facilmente) esta pesquisa em apresentação com algo como [pandoc][pandoc].
 
 
 [pandoc]: https://github.com/jgm/pandoc
@@ -83,11 +83,6 @@
 1. 1995:
     - Primeira versão do Internet Explorer (IE).
         - Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
-            - Enquanto isso, ela também (iria) se debatia com as alegações de ~~monopólio~~ (*antitrust*).
-                - Leis de antitrust são também conhecidas de leis sobre competição no livre-mercado.
-                    - [Trust vs Cartel][trust_vs_cartel]
-                - Sistema operacional e browser
-            - Aqui GUGA pode falar de quando o Windows 95 entrou em sua casa já com um navegador embarcado o Netscape sumiu.
     - Lançamento do browser Opera.
     - James Gosling et al. lançam a linguagem de programação Java.
     - Brendan Eich cria JavaScript de dentro da Netscape.
@@ -122,9 +117,15 @@
     - Criação do MacOS.
     - Windows XP é lançado.
     - Primeiros designs do protocolo BitTorrent.
+    - Finalização do caso de Antitrust da Microsoft.
+        - Enquanto isso, ela também (iria) se debatia com as alegações de ~~monopólio~~ (*antitrust*).
+            - Leis de antitrust são também conhecidas de leis sobre competição no livre-mercado.
+                - [Trust vs Cartel][trust_vs_cartel]
+            - Sistema operacional e browser
+        - Aqui GUGA pode falar de quando o Windows 95 entrou em sua casa já com um navegador embarcado o Netscape sumiu.
 1. 2002:
     - Firefox é lançado pela primeira vez.
-    - Lançamento do browser Tor.
+    - Lançamento da rede Tor.
         - O lançamento tornou a dark web algo realmente considerável pela primeira vez.
             - Deep Web != Dark Web
                 - Deep Web são sites não indexados, isto é, contém a dark web.
@@ -132,8 +133,7 @@
         - O Tor essencialmente criptografa diversas vezes os dados do pedido de acesso incluindo o endereço. (*Onion Routing*)
             - Esse algoritmo foi originalmente desenvolvido para a defesa dos EUA nos anos 1990.
             - Há fraquezas no entanto.
-        - A versão GUI do Tor foi lançada em 2008, baseada no Firefox.
-            - Até então, era somente uma rede dentro da internet utilizando roteamento cebola.
+        - Até então, era somente uma rede dentro da internet utilizando roteamento cebola.
         - Tor ajudou a denunciar governos autoritários. Uma de suas maiores contribuições foi relacionada à Primavera Árabe ao redor de 2010.
         - É, no entanto, realmente primariamente utilizado para atividades criminosas ou questionáveis.
 1. 2003:
@@ -155,6 +155,7 @@
         - Google Chrome já vem com dispositivos spyware no próprio código.
     - Primeira versão do Android.
     - Criação do Bitcoin.
+    - A versão GUI do Tor é lançada em 2008, baseada no Firefox.
 1. 2010:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
