@@ -1,10 +1,5 @@
 # Pesquisa para o Episódio sobre Browsers
 
-## 0. Itens Faltantes
-
-- [ ] Simplificar a linha do tempo em seções.
-- [ ] Há alguma conexão entre a Arpanet e o progresso russo da época? Creio que sim.
-
 ## 1. Motivação e Contexto
 
 - De onde vem a ideia deste podcast?
@@ -106,7 +101,6 @@
          - Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
             - Um dos primeiros massivos diferenciais foi a funcionalidade de extensões.
             - Aqui GUGA fala do seu primeiro contato com o Firefox, já estamos nos 2000's a Onda agora é outra...
-
     - Craigslist
     - Extensões de browser aparecem pela primeira vez no IE. Firefox começará a suportá-las a partir de 2004.
     - Fundação do Napster &mdash; que teria seu lançamento somente em 2001.
