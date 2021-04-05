@@ -73,7 +73,7 @@
 1. 1995:
     - Primeira versão do Internet Explorer (IE).
         - Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
-            - Enquanto isso, ela também se debatia com as alegações de ~~monopólio~~ (*antitrust*).
+            - Enquanto isso, ela também (iria) se debatia com as alegações de ~~monopólio~~ (*antitrust*).
                 - Leis de antitrust são também conhecidas de leis sobre competição no livre-mercado.
                     - [Trust vs Cartel][trust_vs_cartel]
                 - Sistema operacional e browser
