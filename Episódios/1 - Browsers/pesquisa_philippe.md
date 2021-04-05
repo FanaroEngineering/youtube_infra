@@ -3,8 +3,6 @@
 ## 0. Itens Faltantes
 
 - [ ] Simplificar a linha do tempo em seções.
-- [ ] Pesquisa breve sobre o Tor browser.
-- [ ] Adicionar pequena descrição sobre a Norad e a ARPANET.
 - [ ] Há alguma conexão entre a Arpanet e o progresso russo da época? Creio que sim.
 
 ## 1. Motivação e Contexto
@@ -20,11 +18,17 @@
 
 ## 2. Linha do Tempo
 
+> Mencionar fragmentação da história.
+
 1. 1957: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. 1958: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
 1. 1968: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
 1. 1969: Arpanet começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
+    - Advanced Research Projects Agency Network
+    - A motivação da criação da Arpanet é questionável, há basicamente 2 sugestões:
+        - A Arpanet nasceu para conectar a rede de computadores esparsa e isolada nos EUA.
+        - Foi uma tentativa de estudo de redes distribuídas, que seriam talvez robustas o suficiente para sobreviver mesmo depois de ataques nucleares e sofrendo perdas consideráveis.
 1. 1970: Começo da ARPANET europeia.
 1. 1972:
     - O primeiro email (Raymond Tomlinson para ele mesmo)
@@ -105,6 +109,7 @@
 
     - Craigslist
     - Extensões de browser aparecem pela primeira vez no IE. Firefox começará a suportá-las a partir de 2004.
+    - Fundação do Napster &mdash; que teria seu lançamento somente em 2001.
 1. 2000:
     - Internet para a África
     - Aaron Swartz cria RSS
@@ -115,7 +120,21 @@
     - A bolha .com explode de vez.
     - Criação do MacOS.
     - Windows XP é lançado.
-1. 2002: Firefox é lançado pela primeira vez.
+    - Primeiros designs do protocolo BitTorrent.
+1. 2002:
+    - Firefox é lançado pela primeira vez.
+    - Lançamento do browser Tor.
+        - O lançamento tornou a dark web algo realmente considerável pela primeira vez.
+            - Deep Web != Dark Web
+                - Deep Web são sites não indexados, isto é, contém a dark web.
+                - Dark web além de não indexado, requer software, configuração e autorização para acessar.
+        - O Tor essencialmente criptografa diversas vezes os dados do pedido de acesso incluindo o endereço. (*Onion Routing*)
+            - Esse algoritmo foi originalmente desenvolvido para a defesa dos EUA nos anos 1990.
+            - Há fraquezas no entanto.
+        - A versão GUI do Tor foi lançada em 2008, baseada no Firefox.
+            - Até então, era somente uma rede dentro da internet utilizando roteamento cebola.
+        - Tor ajudou a denunciar governos autoritários. Uma de suas maiores contribuições foi relacionada à Primavera Árabe ao redor de 2010.
+        - É, no entanto, realmente primariamente utilizado para atividades criminosas ou questionáveis.
 1. 2003:
     - Morre o Netscape.
     - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
