@@ -18,7 +18,7 @@
 
 ## 2. Linha do Tempo
 
-> Mencionar fragmentação da história.
+> **Mencionar fragmentação da história.**
 
 1. 1957: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
@@ -37,7 +37,7 @@
     - TCP/IP
     - A University College of London estabelece a primeira conexão ARPANET internacional, entre Londres e a Noruega.
 1. 1974:
-    - Elizabeth Feinler cria os sufixos .com, .edu, .gov, .mil, .org e .net.
+    - Elizabeth Feinler cria os sufixos .com, .edu, .gov, .org e .net.
     - Vint Cerf e Robert Kahn fazem a primeira menção do termo "internet".
     - Primeira versão pública e comercial da internet.
 1. 1975: Fundação da Microsoft.
@@ -152,7 +152,6 @@
     - Primeira publicação do Google Chrome.
         - Possui muito melhor performance e acompanha os outros produtos do ecossistema.
         - Google Chrome já vem com dispositivos spyware no próprio código.
-
     - Primeira versão do Android.
     - Criação do Bitcoin.
 1. 2010:
@@ -166,29 +165,31 @@
 1. 2019: Primeira publicação do browser Brave.
     - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
 1. 2020:
-    - Firefox morre e Google colhe os pedaços.
+    - Firefox morre, e Google colhe os pedaços.
     - IE é descontinuado.
     - Microsoft apela ao chromium -> nasce o novo Edge.
 
 ## 3. Discussão sobre os browsers que utilizamos atualmente
 
 Novas soluções e alternativas ao Internet Explorer e ao Chrome:
-    - Hugo: Edge
-    - Eu: Brave
-        - Mencionar [BAT][bat].
-        - Mencionar bloqueador de propaganda nativo.
+
+- Hugo: Edge
+- Eu: Brave
+    - Mencionar [BAT][bat].
+    - Mencionar bloqueador de propaganda nativo.
 
 ## 4. Indo Além
 
 Soluções para usuários avançados (powerusers):
-    - [qutebrowser][qutebrowser]
-    - [vimb][vimb]
-        - [cVim][cvim]
-        - [Vimium][vimium]
-    - [surf][surf]
-    - [ungoogle-chromium][ungoogled_chromium]
-    - [lynx][lynx]
-    - [gopher][gopher]
+
+- [qutebrowser][qutebrowser]
+- [vimb][vimb]
+    - [cVim][cvim]
+    - [Vimium][vimium]
+- [surf][surf]
+- [ungoogle-chromium][ungoogled_chromium]
+- [lynx][lynx]
+- [gopher][gopher]
 
 
 [bat]: https://basicattentiontoken.org/
