@@ -5,21 +5,23 @@
 - [ ] Simplificar a linha do tempo em seções.
 - [ ] Pesquisa breve sobre o Tor browser.
 - [ ] Adicionar pequena descrição sobre a Norad e a ARPANET.
-- [ ] Citar as diferenças entre World Wide Web e a internet antes dela.
+- [ ] Há alguma conexão entre a Arpanet e o progresso russo da época? Creio que sim.
 
 ## 1. Motivação e Contexto
 
 - De onde vem a ideia deste podcast?
-    - Da vontade de se ter um meio termo entre um vídeo muito bem produzido e suscinto sobre o assunto e uma conversa informal porém bem informada.
-    - O podcast é desenvolvido na filosofia do código aberto, ou seja, você não só pode visualizar toda a pesquisa e infraestrutura do produto final, como também pode contribuir para sua melhoria.
-    - O formato é mais longo do que o suposto ideal ou necessário, mas também é mais flexível, o que pode fazer com que revelemos mais do que o esperado.
+    - Da vontade de se ter um meio termo entre um vídeo muito bem produzido e suscinto sobre o assunto e uma conversa informal porém bem fundamentada.
+    - O podcast é desenvolvido na filosofia do *código aberto*, ou seja, você não só pode visualizar toda a pesquisa e infraestrutura do produto final, como também pode contribuir para sua melhoria.
+    - O formato é mais longo do que o suposto ideal ou necessário, mas também é mais flexível, o que pode fazer com que discutamos mais do que o esperado.
 - Por que este episódio especificamente?
-    - Para ajudar aqueles que não possuem o conhecimento técnico necessário ou simplesmente não possuem o interesse em saber mais, pelo menos até agora.
+    - Para ajudar aqueles que não possuem o conhecimento técnico necessário ou simplesmente não possuem o interesse em saber mais sobre browsers, pelo menos até agora.
         - Talvez possamos alterar suas respectivas opiniões.
     - Browsers são *a* ferramenta utilizada no dia a dia de cada um. É importante e muito útil ir além do b-a-bá.
 
 ## 2. Linha do Tempo
 
+1. 1957: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
+    - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. 1958: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
 1. 1968: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
 1. 1969: Arpanet começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
@@ -47,6 +49,8 @@
 1. 1989:
     - Archie Query, o primeiro buscador da internet.
     - Tim Berners-Lee cria a World Wide Web.
+        - A world wide web é basicamente software rodando na infraestrutura da internet. É software focado em documentos, que utiliza o protocolo HTTP, que, por sua vez, está em cima do TCP/IP.
+        - Se você se conectar, por exemplo, a um aplicativo de chat, provavelmente você não utilizará nada relacionado à World Wide Web, apesar de que talvez utilize HTTP e TCP/IP.
 1. 1990:
     - Criação do Linux, a base da imensa maioria dos servidores da internet.
     - World-Wide Web web browser (1990), por Tim Berners-Lee, o criador da World Wide Web.
@@ -147,21 +151,25 @@
     - IE é descontinuado.
     - Microsoft apela ao chromium -> nasce o novo Edge.
 
-## 3. Discussão sobre os Browsers que utilizamos atualmente
+## 3. Discussão sobre os browsers que utilizamos atualmente
 
-1. Novas soluções e alternativas ao Internet Explorer e ao Chrome
+Novas soluções e alternativas ao Internet Explorer e ao Chrome:
     - Hugo: Edge
     - Eu: Brave
         - Mencionar [BAT][bat].
         - Mencionar bloqueador de propaganda nativo.
-1. Indo além: soluções para usuários avançados (powerusers)
+
+## 4. Indo Além
+
+Soluções para usuários avançados (powerusers):
     - [qutebrowser][qutebrowser]
     - [vimb][vimb]
         - [cVim][cvim]
         - [Vimium][vimium]
+    - [surf][surf]
+    - [ungoogle-chromium][ungoogled_chromium]
     - [lynx][lynx]
     - [gopher][gopher]
-    - [surf][surf]
 
 
 [bat]: https://basicattentiontoken.org/
@@ -170,6 +178,7 @@
 [lynx]: https://lynx.invisible-island.net/
 [qutebrowser]: https://qutebrowser.org/
 [surf]: https://surf.suckless.org/
+[ungoogled_chromium]: https://ungoogled-software.github.io/ungoogled-chromium-binaries/
 [vimb]: https://fanglingsu.github.io/vimb/
 [vimium]: https://vimium.github.io/
 
@@ -207,12 +216,14 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
         - De longe uma das séries mais emocionantes e bem feitas que eu já vi. Os criadores inclusive tinham uma equipe super hardcore de especialistas em TI.
     - [Silicon Valley][silicon_valley]
         - Web distribuída e decentrelizada.
-- Referências Extras
-    - [Mr. Robot][mr_robot]
-        - Uma série não tão relacionada ao tema, porém mostra bem o cotidiano de um hacker.
-    - Vídeos do Michael MJD sobre o "Windows 12":
-        - [Windows 12 - The Bizarre OS You've Never Heard Of][windows_12_1]
-        - [Windows 12 Is Still Around and Is Wackier Than Ever][windows_12_2]
+
+### Referências Extras
+
+- [Mr. Robot][mr_robot]
+    - Uma série não tão relacionada ao tema, porém mostra bem o cotidiano de um hacker.
+- Vídeos do Michael MJD sobre o "Windows 12":
+    - [Windows 12 - The Bizarre OS You've Never Heard Of][windows_12_1]
+    - [Windows 12 Is Still Around and Is Wackier Than Ever][windows_12_2]
 
 
 [brendan_eich_lex_fridman]: https://youtu.be/krB0enBeSiE
