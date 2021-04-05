@@ -1,5 +1,12 @@
 # Pesquisa para o Episódio sobre Browsers
 
+## 0. Pesquisa
+
+- [ ] É possível converter (facilmente) esta pesquisa em apresentação com algo como [pandoc][pandoc]
+
+
+[pandoc]: https://github.com/jgm/pandoc
+
 ## 1. Motivação e Contexto
 
 - De onde vem a ideia deste podcast?
@@ -209,6 +216,10 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
     - [Internet Timeline - Linha do Tempo da Internet][internet_timeline]
     - [Investopedia - Dotcom Bubble][investopedia_dotcom_bubble]
     - [Thomas Jefferson Universiy - Internet History Timeline][jefferson_timeline]
+    - [Wikipédia - Tor (anonymity network)][wikipedia_tor]
+    - [The Tor Project - History][tor_project_history]
+    - [Wikipédia - Deep Web][wikipedia_deep_web]
+    - [Wikipédia - Dark web][wikipedia_dark_web]
 - Imagens
     - [Versões de todos os browsers da história][wikipedia_browser_timeline]
         - No entanto, Brave não está lá.
@@ -224,6 +235,7 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
     - [Wall Street Journal - What Facebook, Google and Others Can Learn From Microsoft’s Antitrust Case][wall_street_journal_antitrust]
     - [Wikipédia - Arthur C. Clarke Predicts the Internet and the PC][wikipedia_clarke]
     - [Wikipédia - History of the Internet][wikipedia_internet_history]
+    - [SOS Can Help - History of the Dark Web (Timeline)][sos_can_help_history_of_the_dark_web]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo/Google.
@@ -253,15 +265,20 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 [mr_robot]: https://www.imdb.com/title/tt4158110/
 [science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
 [silicon_valley]: https://www.imdb.com/title/tt2575988/
+[sos_can_help_history_of_the_dark_web]: https://www.soscanhelp.com/blog/history-of-the-dark-web
 [tecmundo_guerra_navegadores]: https://youtu.be/3yTDZTKwj-o
+[tor_project_history]: https://www.torproject.org/about/history/
 [trust_vs_cartel]: https://english.stackexchange.com/q/15080/120424
 [wall_street_journal_antitrust]: https://youtu.be/frA5_sTj_8A
 [wikipedia_browser_history]: https://en.wikipedia.org/wiki/History_of_the_web_browser
 [wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
 [wikipedia_browser_wars]: https://en.wikipedia.org/wiki/Browser_wars
 [wikipedia_clarke]: https://en.wikipedia.org/wiki/File:ABC_Clarke_predicts_internet_and_PC.ogv
+[wikipedia_dark_web]: https://en.wikipedia.org/wiki/Dark_web
+[wikipedia_deep_web]: https://en.wikipedia.org/wiki/Deep_web
 [wikipedia_internet_history]: https://en.wikipedia.org/wiki/History_of_the_Internet
 [wikipedia_competition_law]: https://en.wikipedia.org/wiki/Competition_law
+[wikipedia_tor]: https://en.wikipedia.org/wiki/Tor_(anonymity_network)
 [wikipedia_usa_vs_microsoft]: https://en.wikipedia.org/wiki/Browser_wars
 [windows_12_1]: https://youtu.be/qW7urFcgJko
 [windows_12_2]: https://youtu.be/3px2vVWFuRg
