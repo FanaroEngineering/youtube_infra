@@ -20,6 +20,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. **1958**: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
+1. **1965**: Charles Kao e George Hockham, da companhia britânica Standard Telephones and Cables (STC), conseguem pela primeira vez promover fibras óticas como meio de comunicação.
 1. **1968**: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
 1. **1969**: ARPANET começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
     - Advanced Research Projects Agency Network
@@ -43,6 +44,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Primeira versão pública e comercial da internet.
 1. **1975**: Fundação da Microsoft.
 1. **1976**: Fundação da Apple.
+1. **1978**: O primeiro sistema GPS (Global Positioning System) entra em funcionamento.
+    - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim em já 1958.
 1. **1982**: a Ásia se conecta à internet.
 1. **1983**:
     - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
@@ -52,6 +55,13 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - GNU é uma sigla recursiva: "GNU não é UNIX!", pois difere do UNIX em termos de código e também é 100% livre.
         - Gnu também é um animal.
         - É o começo da filosofia de código aberto, algo que influenciaria Linus Torvalds mais tarde na criação do Linux.
+        - Até então, UNIX era licensiado às universidades, mas, em 1983, AT&T foi desobrigada a licensiá-lo e partiu a vendê-lo como caixa preta.
+        - Linux tomará as rédeas da guerra UNIX, a partir do legado do Stallman, nos anos 1990.
+1. **1984**: Tom Love e Brad Cox publicam Objective-C.
+    - A versão/evolução OOP de C.
+    - Será a linguagem do SO NEXT, levado à Apple pelo Steve Jobs, e que, depois, será a linguagem do iOS.
+1. **1985**: Bjarne Stroustroup completa o primeiro design da linguagem de programação C++, a evolução supostamente canônica de C.
+    - E que será utilizada na construção do Bitcoin, dentre outros.
 1. **1987**:
     - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
     - Douglas Cormer escreve o primeiro livro sobre TCP/IP.
@@ -70,6 +80,9 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Al Gore passa um orçamento de mais de US$ 600 milhões para criar uma superinfraestrutura para a internet.
     - A World Wide Web é aberta ao público pela primeira vez.
     - Criação do protocolo Gopher.
+    - Nasce a linguagem Python, que, assim como Ruby, tenta simplificar a burocracia do dia a dia do programador.
+        - É um tópico extenso.
+        - Será a linguagem da ciência de dados no futuro.
 1. **1992**: criação do browser de terminal Lynx.
 1. **1993**:
     - Padronização do DSL (conexão à internet via linha telefônica)
@@ -92,9 +105,14 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - JS foi criado e utilizado pela primeira vez no Netscape &mdash; em 10 dias!
     - Windows 95 é lançado.
     - Fundação do eBay.
+    - Nasce a linguagem de programação Ruby.
+    - Também nasce a linguagem de programação PHP
+        - Que foi, por muito tempo, mais popular do que JS.
+        - As versões iniciais do Facebook serão escritos, e provavelmente ainda são, em PHP.
 1. **1996**:
     - VoIP
     - O Internet Archive, catalogando e distribuindo gratuitamente milhares de livros.
+    - Primeira publicação do CSS.
 1. **1997**:
     - Fundação do Netflix.
 1. **1998**:
@@ -102,6 +120,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Primeiras ferramentas de blog para leigos.
     - Fundação da Google.
     - Fundação do PayPal.
+    - Primeira publicação do DOM (Document Object Model).
+        - A padronização, em árvore, de como um documento HTML/XML deve ser traduzido em objetos pela linguagem de programação que o manipula.
 1. **1999**:
     - Fundação da Mozilla
          - Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
@@ -149,18 +169,29 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **2004**:
     - Fundação do Facebook.
     - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
+    - Nasce o Ruby on Rails, uma solução completa para o desenvolvimento de sites, um framework que facilita drasticamente o desenvolvimento de sites.
+        - Os três motivos que mais aumentaram a qualidade dos aplicativos em Rails &mdash; ênfase em &mdash;:
+            - MVC (criado nos anos 1970 para Smalltalk): Model-View-Controller
+            - CoC: Convention over Configuration
+            - DRY: Don't Repeat Yourself
 1. **2005**:
     - YouTube é criado.
     - Fundação do maior fórum do mundo &mdash; e autoproclamada página principal da internet &mdash;: Reddit.
         - Um de seus fundadores foi o próprio Aaron Swartz.
     - Adobe compra o Flash.
     - Linus Torvalds publica a primeira versão funcional do Git, para uso no desenvolvimento do kernel do Linux.
+    - Nasce o framwork Django.
+        - Também baseado no MVC.
 1. **2006**:
     - Google compra o YouTube.
+    - Nasce o jQuery.
+        - Que foi, durante muito tempo, o framework que representava a única maneira de se manipular *bem* o DOM através de JS.
 1. **2007**:
     - Mais longa conexão de Wi-Fi da história: 382 km.
     - Windows Vista é lançado ao público.
     - Primeiro iPhone.
+    - Nasce o Pornhub.
+        - Pornografia representa mais de 20% de todas as procuras na internet. O tráfego de dados pornográficos na internet é bem maior do que o do Netflix.
 1. **2008**:
     - Primeira publicação do Google Chrome.
         - Possui muito melhor performance e acompanha os outros produtos do ecossistema.
@@ -176,11 +207,19 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Primeiro iPad.
 1. **2012**:
     - Windows 8 é lançado.
+    - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
+        - Hoje, Geoffrey Hinton é o principal consultor de ciência de dados da Google. Ele também ganho o prêmio Turing em 2018, considerado o prêmio Nobel da ciência da computação.
+    - Microsoft lança a versão tipada de JS: TypeScript.
+1. **2013**: Facebook lança o React.
+    - Um framework que sistematiza de uma maneira extremamente simples a manipulação de elementos do DOM.
+    - Possibilita mais facilmente SPAs.
 1. **2014**: Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
 1. **2015**:
     - Publicação do browser Microsoft Edge.
     - Windows 10 é lançado.
-1. **2016**: Microsoft compra o LinkedIn.
+1. **2016**:
+    - Microsoft compra o LinkedIn.
+    - Google sua versão mais moderna do React: Angular.
 1. **2019**: Primeira publicação do browser Brave.
     - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
     - Criação do protocolo Gemini.
