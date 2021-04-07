@@ -15,22 +15,28 @@
 
 > **Mencionar fragmentação da história.**
 
+Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para melhorá-la.
+
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. **1958**: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
 1. **1968**: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
-1. **1969**: Arpanet começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
+1. **1969**: ARPANET começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
     - Advanced Research Projects Agency Network
     - A motivação da criação da Arpanet é questionável, há basicamente 2 sugestões:
-        - A Arpanet nasceu para conectar a rede de computadores esparsa e isolada nos EUA.
+        - A ARPANET nasceu para conectar a rede de computadores esparsa e isolada nos EUA.
         - Foi uma tentativa de estudo de redes distribuídas, que seriam talvez robustas o suficiente para sobreviver mesmo depois de ataques nucleares e sofrendo perdas consideráveis.
 1. **1970**: Começo da ARPANET europeia.
 1. **1972**:
     - O primeiro email (Raymond Tomlinson para ele mesmo)
     - Ethernet
+        - O Ethernet original utilizava cabo coaxial, enquanto hoje é ou par trançado ou fibra ótica.
+    - Criação da linguagem C, por Dennis Ritchie no Bell Labs.
 1. **1973**:
     - TCP/IP
+        - Menção breve às 7 camadas da internet (OSI Model (Open Systems Interconnection model)).
     - A University College of London estabelece a primeira conexão ARPANET internacional, entre Londres e a Noruega.
+    - Publicação do sistema operacional UNIX, por Ken Thompson, Dennis Ritchie et al. no Bell Labs.
 1. **1974**:
     - Elizabeth Feinler cria os sufixos .com, .edu, .gov, .org e .net.
     - Vint Cerf e Robert Kahn fazem a primeira menção do termo "internet".
@@ -42,6 +48,10 @@
     - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
         - TCP/IP está em uma camada superior de abstração, o que faz com que ele consiga unificar diferentes outros sistemas de camada inferior.
     - Paul Mockapetris inventa o DNS.
+    - Richard Stallman inicia o Projeto GNU, no laboratório de inteligência artifical do MIT.
+        - GNU é uma sigla recursiva: "GNU não é UNIX!", pois difere do UNIX em termos de código e também é 100% livre.
+        - Gnu também é um animal.
+        - É o começo da filosofia de código aberto, algo que influenciaria Linus Torvalds mais tarde na criação do Linux.
 1. **1987**:
     - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
     - Douglas Cormer escreve o primeiro livro sobre TCP/IP.
@@ -64,12 +74,12 @@
 1. **1993**:
     - Padronização do DSL (conexão à internet via linha telefônica)
     - Browser Mosaic: um software mais agradável para se navegar a web.
+    - Nasce o precursor do Flash &mdash; mais tarde Adobe Flash &mdash;: SmartSketch. Era um aplicativo para desenhar animações vetoriais na internet.
 1. **1994**:
     - Primeira versão do Netscape.
         - Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
-            - Aqui GUGA pode falar sobre experiências, primeiro contato com a WEB e uso do Netscape navigator e Internet Explorer já na era Windows 95+
+            - Aqui GUGA pode falar sobre experiências, primeiro contato com a WEB e uso do Netscape navigator e Internet Explorer já na era Windows 95+.
             - Netscape era desnecessariamente excessivo (bloatware). Quando o mercado não facilitava para o Netscape, ele entupia a UI/UX com mais funcionalidades.
-            - JS foi criado e utilizado pela primeira vez no Netscape &mdash; em 10 dias!
     - Internet na China.
     - Internet Engineering Task Force (IETF) e o primeiro RFC da Internet (IEEE).
     - Fundação da Amazon.
@@ -79,6 +89,7 @@
     - Lançamento do browser Opera.
     - James Gosling et al. lançam a linguagem de programação Java.
     - Brendan Eich cria JavaScript de dentro da Netscape.
+        - JS foi criado e utilizado pela primeira vez no Netscape &mdash; em 10 dias!
     - Windows 95 é lançado.
     - Fundação do eBay.
 1. **1996**:
@@ -99,11 +110,13 @@
     - Craigslist
     - Extensões de browser aparecem pela primeira vez no IE. Firefox começará a suportá-las a partir de 2004.
     - Fundação do Napster &mdash; que teria seu lançamento somente em 2001.
+    - Nasce o SourceForge, o primeiro local na internet a centralizar software gratuito e código-aberto.
 1. **2000**:
     - Internet para a África
     - Aaron Swartz cria RSS
 1. **2001**:
     - Aaron Swartz cria o Creative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
+        - Uma plataforma para aumentar o alcance educacional da internet, além de auxiliar nos problemas legais que criadores possam vir a ter.
     - Jimmy Wales cria a Wikipédia.
     - Investigação de Antitrust contra a Microsoft.
     - A bolha .com explode de vez.
@@ -132,10 +145,16 @@
 1. **2003**:
     - Morre o Netscape.
     - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
+    - Fundação do LinkedIn, por ex-funcionários do PayPal.
 1. **2004**:
     - Fundação do Facebook.
+    - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
 1. **2005**:
     - YouTube é criado.
+    - Fundação do maior fórum do mundo &mdash; e autoproclamada página principal da internet &mdash;: Reddit.
+        - Um de seus fundadores foi o próprio Aaron Swartz.
+    - Adobe compra o Flash.
+    - Linus Torvalds publica a primeira versão funcional do Git, para uso no desenvolvimento do kernel do Linux.
 1. **2006**:
     - Google compra o YouTube.
 1. **2007**:
@@ -149,14 +168,19 @@
     - Primeira versão do Android.
     - Criação do Bitcoin.
     - A versão GUI do Tor é lançada em 2008, baseada no Firefox.
+    - Joel Spolsky e Jeff Atwood fundam o Stack Overflow.
+    - Github começa seu funcionamento.
+        - Github foi originalmente construído com Ruby on Rails.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
 1. **2012**:
     - Windows 8 é lançado.
+1. **2014**: Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
 1. **2015**:
     - Publicação do browser Microsoft Edge.
     - Windows 10 é lançado.
+1. **2016**: Microsoft compra o LinkedIn.
 1. **2019**: Primeira publicação do browser Brave.
     - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
     - Criação do protocolo Gemini.
@@ -165,6 +189,7 @@
         - É possível rodar código no servidor no entanto.
 1. **2020**:
     - Firefox morre, e Google colhe os pedaços.
+    - Fim do Adobe Flash.
     - IE é descontinuado.
     - Microsoft apela ao chromium -> nasce o novo Edge.
 
