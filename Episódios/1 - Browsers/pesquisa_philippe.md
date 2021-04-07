@@ -159,6 +159,10 @@
     - Windows 10 é lançado.
 1. **2019**: Primeira publicação do browser Brave.
     - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
+    - Criação do protocolo Gemini.
+        - Uma versão mais moderna do Gopher.
+        - Não extensível
+        - É possível rodar código no servidor no entanto.
 1. **2020**:
     - Firefox morre, e Google colhe os pedaços.
     - IE é descontinuado.
@@ -175,20 +179,22 @@ Novas soluções e alternativas ao Internet Explorer e ao Chrome:
 
 ## 4. Indo Além
 
-Soluções para usuários avançados (powerusers):
+Soluções para usuários avançados (*power users*):
 
+- [ungoogled-chromium][ungoogled_chromium]
 - [qutebrowser][qutebrowser]
 - [vimb][vimb]
     - [cVim][cvim]
     - [Vimium][vimium]
 - [surf][surf]
-- [ungoogle-chromium][ungoogled_chromium]
 - [lynx][lynx]
 - [gopher][gopher]
+    - [Gemini][gemini]
 
 
 [bat]: https://basicattentiontoken.org/
 [cvim]: https://chrome.google.com/webstore/detail/cvim/ihlenndgcmojhcghmfjfneahoeklbjjh?hl=en
+[gemini]: https://gemini.circumlunar.space/
 [gopher]: https://en.wikipedia.org/wiki/Gopher_(protocol)
 [lynx]: https://lynx.invisible-island.net/
 [qutebrowser]: https://qutebrowser.org/
@@ -230,6 +236,7 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
     - [Wikipédia - Arthur C. Clarke Predicts the Internet and the PC][wikipedia_clarke]
     - [Wikipédia - History of the Internet][wikipedia_internet_history]
     - [SOS Can Help - History of the Dark Web (Timeline)][sos_can_help_history_of_the_dark_web]
+    - [Mental Outlaw - Gemini - An Even Better Internet Protocol][mental_outlaw_gemini]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo/Google.
@@ -255,6 +262,7 @@ Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser 
 [internet_timeline]: https://www.internethalloffame.org/internet-history/timeline
 [investopedia_dotcom_bubble]: https://www.investopedia.com/terms/d/dotcom-bubble.asp
 [jefferson_timeline]: https://online.jefferson.edu/business/internet-history-timeline/
+[mental_outlaw_gemini]: https://odysee.com/@AlphaNerd:8/gemini-an-even-better-internet-protocol:0
 [michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
 [mr_robot]: https://www.imdb.com/title/tt4158110/
 [science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
