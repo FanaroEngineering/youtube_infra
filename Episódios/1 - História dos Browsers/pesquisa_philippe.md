@@ -109,10 +109,12 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Também nasce a linguagem de programação PHP
         - Que foi, por muito tempo, mais popular do que JS.
         - As versões iniciais do Facebook serão escritos, e provavelmente ainda são, em PHP.
+    - Fundação do buscador Cadê?.
 1. **1996**:
     - VoIP
     - O Internet Archive, catalogando e distribuindo gratuitamente milhares de livros.
     - Primeira publicação do CSS.
+    - Fundação do UOL (Universo Online).
 1. **1997**:
     - Fundação do Netflix.
 1. **1998**:
@@ -131,9 +133,12 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Extensões de browser aparecem pela primeira vez no IE. Firefox começará a suportá-las a partir de 2004.
     - Fundação do Napster &mdash; que teria seu lançamento somente em 2001.
     - Nasce o SourceForge, o primeiro local na internet a centralizar software gratuito e código-aberto.
+    - Fundação do portal Terra, na Espanha.
 1. **2000**:
     - Internet para a África
     - Aaron Swartz cria RSS
+    - Criação do portal iG (Internet Group do Brasil).
+        - Será vendido à Brasil Telecom em 2004 por $100M.
 1. **2001**:
     - Aaron Swartz cria o Creative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
         - Uma plataforma para aumentar o alcance educacional da internet, além de auxiliar nos problemas legais que criadores possam vir a ter.
