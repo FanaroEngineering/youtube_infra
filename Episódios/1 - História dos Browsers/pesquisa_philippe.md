@@ -200,6 +200,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **2008**:
     - Primeira publicação do Google Chrome.
         - Possui muito melhor performance e acompanha os outros produtos do ecossistema.
+        - A UI/UX também era muito mais simples.
         - Google Chrome já vem com dispositivos spyware no próprio código.
     - Primeira versão do Android.
     - Criação do Bitcoin.
@@ -216,7 +217,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
         - Hoje, Geoffrey Hinton é o principal consultor de ciência de dados da Google. Ele também ganho o prêmio Turing em 2018, considerado o prêmio Nobel da ciência da computação.
     - Microsoft lança a versão tipada de JS: TypeScript.
-1. **2013**: 
+1. **2013**:
     - Facebook lança o React.
         - Um framework que sistematiza de uma maneira extremamente simples a manipulação de elementos do DOM.
         - Possibilita mais facilmente SPAs.
@@ -228,8 +229,9 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **2016**:
     - Microsoft compra o LinkedIn.
     - Google sua versão mais moderna do React: Angular.
-1. **2019**: Primeira publicação do browser Brave.
-    - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
+1. **2019**:
+    - Primeira publicação do browser Brave.
+        - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
     - Criação do protocolo Gemini.
         - Uma versão mais moderna do Gopher.
         - Não extensível
@@ -238,7 +240,11 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Firefox morre, e Google colhe os pedaços.
     - Fim do Adobe Flash.
     - IE é descontinuado.
-    - Microsoft apela ao chromium -> nasce o novo Edge.
+    - Microsoft apela ao chromium, e, então, nasce o novo Edge.
+1. **2021**:
+    - Mais uma bolha do Bitcoin, no meio de uma pandemia.
+    - NFTs disparam e criam um mercado de centenas de bilhões de dólares.
+        - Beeple vende uma coleção de suas obras por US$ 69M.
 
 ## 3. Discussão sobre os browsers que utilizamos atualmente
 
