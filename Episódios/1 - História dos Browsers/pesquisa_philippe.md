@@ -20,7 +20,9 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. **1958**: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
-1. **1965**: Charles Kao e George Hockham, da companhia britânica Standard Telephones and Cables (STC), conseguem pela primeira vez promover fibras óticas como meio de comunicação.
+1. **1965**: 
+    - Charles Kao e George Hockham, da companhia britânica Standard Telephones and Cables (STC), conseguem pela primeira vez promover fibras óticas como meio de comunicação.
+    - Fundação da Rede Globo.
 1. **1968**: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
 1. **1969**: ARPANET começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
     - Advanced Research Projects Agency Network
@@ -46,6 +48,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **1976**: Fundação da Apple.
 1. **1978**: O primeiro sistema GPS (Global Positioning System) entra em funcionamento.
     - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim em já 1958.
+1. **1979**:
+    - 1G: primeira rede de telefonia sem fio (celular), no Japão.
 1. **1982**: a Ásia se conecta à internet.
 1. **1983**:
     - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
@@ -77,6 +81,11 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Interface muito complicada e confusa.
             - Era baseada no sistema operacional NEXT &mdash; empresa criada pelo Steve Jobs quando ele foi demitido de sua própria empresa &mdash;, que seria comprado pela Apple e utilizado como base para seus próximos sistemas operacionais, quando o Steve Jobs voltou como CEO.
 1. **1991**:
+    - Primeira rede comercial 2G (GSM) na Finlândia.
+        - Benefícios em relação a 1G:
+            - Mais banda, mais dados.
+            - Criptografia.
+            - Maior diversidade de serviços (SMS por exemplo).
     - Al Gore passa um orçamento de mais de US$ 600 milhões para criar uma superinfraestrutura para a internet.
     - A World Wide Web é aberta ao público pela primeira vez.
     - Criação do protocolo Gopher.
@@ -95,6 +104,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Internet na China.
     - Internet Engineering Task Force (IETF) e o primeiro RFC da Internet (IEEE).
     - Fundação da Amazon.
+    - Fundação da Jovem Pan.
 1. **1995**:
     - Primeira versão do Internet Explorer (IE).
         - Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
@@ -114,6 +124,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - O Internet Archive, catalogando e distribuindo gratuitamente milhares de livros.
     - Primeira publicação do CSS.
     - Fundação do UOL (Universo Online).
+    - Fundação da Valve.
 1. **1997**:
     - Fundação do Netflix.
 1. **1998**:
@@ -153,6 +164,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
             - Sistema operacional e browser
         - Este caso não teve nada a ver com o pagamento de $150M que a Apple recebeu da Microsoft na época. Esse pagamento é relacionado a plágio no código do QuickTime.
 1. **2002**:
+    - Primeira versão comercial viável de 3G, na Coreia do Sul (SK Telecom).
     - Firefox é lançado pela primeira vez.
     - Lançamento da rede Tor.
         - O lançamento tornou a dark web algo realmente considerável pela primeira vez.
@@ -170,6 +182,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
     - Fundação do LinkedIn, por ex-funcionários do PayPal.
     - Nasce o 4chan, fonte de memes obscuros e muito material tóxico na internet.
+    - Nascimento da plataforma Steam.
 1. **2004**:
     - Fundação do Facebook.
     - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
@@ -191,6 +204,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Google compra o YouTube.
     - Nasce o jQuery.
         - Que foi, durante muito tempo, o framework que representava a única maneira de se manipular *bem* o DOM através de JS.
+    - AWS vai além da web e cria um serviço de computação em nuvem.
+        - Uma das primeiras rede de computação em nuvem comercialmente viável em larga escala (Elastic Compute Cloud).
 1. **2007**:
     - Mais longa conexão de Wi-Fi da história: 382 km.
     - Windows Vista é lançado ao público.
@@ -209,15 +224,20 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Github começa seu funcionamento.
         - Github foi originalmente construído com Ruby on Rails.
     - Aparece a primeira ferramenta de inspeção de browser.
+    - Nasce a Google Cloud Platform, a principal concorrente da AWS.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
+    - IoT: a razão de coisas/pessoas cresce de 0.08 em 2003 para 1.84 em 2010.
 1. **2012**:
     - Windows 8 é lançado.
     - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
         - Hoje, Geoffrey Hinton é o principal consultor de ciência de dados da Google. Ele também ganho o prêmio Turing em 2018, considerado o prêmio Nobel da ciência da computação.
     - Microsoft lança a versão tipada de JS: TypeScript.
+    - Fundação da empresa Oculus VR, que lidera tecnologicamente o mercado de realidade virtual.
 1. **2013**:
+    - 4G começa a substituir 3G.
+        - 4G já não suporta mais tecnologias de telefonia clássicas, tudo é baseado nos protocolos da internet.
     - Facebook lança o React.
         - Um framework que sistematiza de uma maneira extremamente simples a manipulação de elementos do DOM.
         - Possibilita mais facilmente SPAs.
@@ -226,6 +246,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **2015**:
     - Publicação do browser Microsoft Edge.
     - Windows 10 é lançado.
+    - Nasce o Globo Play.
 1. **2016**:
     - Microsoft compra o LinkedIn.
     - Google sua versão mais moderna do React: Angular.
