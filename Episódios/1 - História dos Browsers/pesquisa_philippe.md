@@ -91,7 +91,6 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **1994**:
     - Primeira versão do Netscape.
         - Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
-            - Aqui GUGA pode falar sobre experiências, primeiro contato com a WEB e uso do Netscape navigator e Internet Explorer já na era Windows 95+.
             - Netscape era desnecessariamente excessivo (bloatware). Quando o mercado não facilitava para o Netscape, ele entupia a UI/UX com mais funcionalidades.
     - Internet na China.
     - Internet Engineering Task Force (IETF) e o primeiro RFC da Internet (IEEE).
@@ -128,7 +127,6 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação da Mozilla
          - Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
             - Um dos primeiros massivos diferenciais foi a funcionalidade de extensões.
-            - Aqui GUGA fala do seu primeiro contato com o Firefox, já estamos nos 2000's a Onda agora é outra...
     - Craigslist
     - Extensões de browser aparecem pela primeira vez no IE. Firefox começará a suportá-las a partir de 2004.
     - Fundação do Napster &mdash; que teria seu lançamento somente em 2001.
@@ -153,7 +151,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
             - Leis de antitrust são também conhecidas de leis sobre competição no livre-mercado.
                 - [Trust vs Cartel][trust_vs_cartel]
             - Sistema operacional e browser
-        - Aqui GUGA pode falar de quando o Windows 95 entrou em sua casa já com um navegador embarcado o Netscape sumiu.
+        - Este caso não teve nada a ver com o pagamento de $150M que a Apple recebeu da Microsoft na época. Esse pagamento é relacionado a plágio no código do QuickTime.
 1. **2002**:
     - Firefox é lançado pela primeira vez.
     - Lançamento da rede Tor.
@@ -171,6 +169,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Morre o Netscape.
     - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
     - Fundação do LinkedIn, por ex-funcionários do PayPal.
+    - Nasce o 4chan, fonte de memes obscuros e muito material tóxico na internet.
 1. **2004**:
     - Fundação do Facebook.
     - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
@@ -187,6 +186,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Linus Torvalds publica a primeira versão funcional do Git, para uso no desenvolvimento do kernel do Linux.
     - Nasce o framwork Django.
         - Também baseado no MVC.
+    - Nasce MDN, a documentação mais extensiva e precisa das tecnologias web.
 1. **2006**:
     - Google compra o YouTube.
     - Nasce o jQuery.
@@ -207,6 +207,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Joel Spolsky e Jeff Atwood fundam o Stack Overflow.
     - Github começa seu funcionamento.
         - Github foi originalmente construído com Ruby on Rails.
+    - Aparece a primeira ferramenta de inspeção de browser.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
@@ -215,9 +216,11 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
         - Hoje, Geoffrey Hinton é o principal consultor de ciência de dados da Google. Ele também ganho o prêmio Turing em 2018, considerado o prêmio Nobel da ciência da computação.
     - Microsoft lança a versão tipada de JS: TypeScript.
-1. **2013**: Facebook lança o React.
-    - Um framework que sistematiza de uma maneira extremamente simples a manipulação de elementos do DOM.
-    - Possibilita mais facilmente SPAs.
+1. **2013**: 
+    - Facebook lança o React.
+        - Um framework que sistematiza de uma maneira extremamente simples a manipulação de elementos do DOM.
+        - Possibilita mais facilmente SPAs.
+    - Aaron é acusado e atacado ostensivamente pelo Departamento de Justiça Americano. A pressão é tamanha que ele se suicida.
 1. **2014**: Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
 1. **2015**:
     - Publicação do browser Microsoft Edge.
@@ -291,6 +294,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
     - [The Tor Project - History][tor_project_history]
     - [Wikipédia - Deep Web][wikipedia_deep_web]
     - [Wikipédia - Dark web][wikipedia_dark_web]
+    - [Did Prosecutors Go Too Far In Swartz Case?][aaron_swartz_suicide]
 - Imagens
     - [Versões de todos os browsers da história][wikipedia_browser_timeline]
         - No entanto, Brave não está lá.
@@ -314,6 +318,8 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
         - De longe uma das séries mais emocionantes e bem feitas que eu já vi. Os criadores inclusive tinham uma equipe super hardcore de especialistas em TI.
     - [Silicon Valley][silicon_valley]
         - Web distribuída e decentrelizada.
+    - [The Social Network][social_network]
+        - Filme que mostra a história da fundação do Facebook e um pouco do caráter do Mark Zuckerberg.
 
 ### Referências Extras
 
@@ -324,6 +330,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
     - [Windows 12 Is Still Around and Is Wackier Than Ever][windows_12_2]
 
 
+[aaron_swartz_suicide]: https://www.npr.org/2013/01/15/169421636/did-prosecutors-go-too-far-in-swartz-case
 [brendan_eich_lex_fridman]: https://youtu.be/krB0enBeSiE
 [captain_gizmo_data_visualization]: https://youtu.be/W4wWdmfOibY
 [coldfusion_internet]: https://youtu.be/8sTy8466MoE
@@ -338,6 +345,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
 [mr_robot]: https://www.imdb.com/title/tt4158110/
 [science_elf_microsoft_monopoly]: https://youtu.be/DN1ytVJcFds
 [silicon_valley]: https://www.imdb.com/title/tt2575988/
+[social_network]: https://www.imdb.com/title/tt1285016/
 [sos_can_help_history_of_the_dark_web]: https://www.soscanhelp.com/blog/history-of-the-dark-web
 [tecmundo_guerra_navegadores]: https://youtu.be/3yTDZTKwj-o
 [tor_project_history]: https://www.torproject.org/about/history/
