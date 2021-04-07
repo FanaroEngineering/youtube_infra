@@ -271,6 +271,8 @@ Soluções para usuários avançados (*power users*):
 
 Em geral, não sei muito bem onde achar conteúdo sobre este tópico a não ser no YouTube ou na Wikipédia, talvez haja algum livro ou especialista no assunto, mas ele é tão nicho e fragmentado que fica difícil realmente encontrá-lo. Talvez eu devesse investigar as referências mencionadas nas páginas da Wikipédia, mas acho que isso vai ficar para uma versão mais aprofundada do assunto no futuro.
 
+Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédia para estabelecer as datas da linha do tempo.
+
 - Texto
     - [Wikipédia - History of the web browser][wikipedia_browser_history]
     - [Trust vs Cartel no English StackExchange][trust_vs_cartel]
