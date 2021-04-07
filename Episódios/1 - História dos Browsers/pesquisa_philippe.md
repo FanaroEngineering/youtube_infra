@@ -225,6 +225,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Github foi originalmente construído com Ruby on Rails.
     - Aparece a primeira ferramenta de inspeção de browser.
     - Nasce a Google Cloud Platform, a principal concorrente da AWS.
+1. **2009**: Fundação da ExpressVPN.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
@@ -235,6 +236,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Hoje, Geoffrey Hinton é o principal consultor de ciência de dados da Google. Ele também ganho o prêmio Turing em 2018, considerado o prêmio Nobel da ciência da computação.
     - Microsoft lança a versão tipada de JS: TypeScript.
     - Fundação da empresa Oculus VR, que lidera tecnologicamente o mercado de realidade virtual.
+    - Nasce NordVPN.
 1. **2013**:
     - 4G começa a substituir 3G.
         - 4G já não suporta mais tecnologias de telefonia clássicas, tudo é baseado nos protocolos da internet.
