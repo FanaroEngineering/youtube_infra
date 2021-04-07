@@ -1,12 +1,5 @@
 # Pesquisa para o Episódio sobre Browsers
 
-## 0. Pesquisa
-
-- [ ] É possível converter (facilmente) esta pesquisa em apresentação com algo como [pandoc][pandoc].
-
-
-[pandoc]: https://github.com/jgm/pandoc
-
 ## 1. Motivação e Contexto
 
 - De onde vem a ideia deste podcast?
