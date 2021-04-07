@@ -15,56 +15,56 @@
 
 > **Mencionar fragmentação da história.**
 
-1. 1957: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
+1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
-1. 1958: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
-1. 1968: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
-1. 1969: Arpanet começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
+1. **1958**: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
+1. **1968**: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
+1. **1969**: Arpanet começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
     - Advanced Research Projects Agency Network
     - A motivação da criação da Arpanet é questionável, há basicamente 2 sugestões:
         - A Arpanet nasceu para conectar a rede de computadores esparsa e isolada nos EUA.
         - Foi uma tentativa de estudo de redes distribuídas, que seriam talvez robustas o suficiente para sobreviver mesmo depois de ataques nucleares e sofrendo perdas consideráveis.
-1. 1970: Começo da ARPANET europeia.
-1. 1972:
+1. **1970**: Começo da ARPANET europeia.
+1. **1972**:
     - O primeiro email (Raymond Tomlinson para ele mesmo)
     - Ethernet
-1. 1973:
+1. **1973**:
     - TCP/IP
     - A University College of London estabelece a primeira conexão ARPANET internacional, entre Londres e a Noruega.
-1. 1974:
+1. **1974**:
     - Elizabeth Feinler cria os sufixos .com, .edu, .gov, .org e .net.
     - Vint Cerf e Robert Kahn fazem a primeira menção do termo "internet".
     - Primeira versão pública e comercial da internet.
-1. 1975: Fundação da Microsoft.
-1. 1976: Fundação da Apple.
-1. 1982: a Ásia se conecta à internet.
-1. 1983:
+1. **1975**: Fundação da Microsoft.
+1. **1976**: Fundação da Apple.
+1. **1982**: a Ásia se conecta à internet.
+1. **1983**:
     - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
         - TCP/IP está em uma camada superior de abstração, o que faz com que ele consiga unificar diferentes outros sistemas de camada inferior.
     - Paul Mockapetris inventa o DNS.
-1. 1987:
+1. **1987**:
     - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
     - Douglas Cormer escreve o primeiro livro sobre TCP/IP.
-1. 1989:
+1. **1989**:
     - Archie Query, o primeiro buscador da internet.
     - Tim Berners-Lee cria a World Wide Web.
         - A world wide web é basicamente software rodando na infraestrutura da internet. É software focado em documentos, que utiliza o protocolo HTTP, que, por sua vez, está em cima do TCP/IP.
         - Se você se conectar, por exemplo, a um aplicativo de chat, provavelmente você não utilizará nada relacionado à World Wide Web, apesar de que talvez utilize HTTP e TCP/IP.
-1. 1990:
+1. **1990**:
     - Criação do Linux, a base da imensa maioria dos servidores da internet.
     - World-Wide Web web browser (1990), por Tim Berners-Lee, o criador da World Wide Web.
         - O público geral somente ganhou acesso à internet em 1991 na verdade.
         - Interface muito complicada e confusa.
             - Era baseada no sistema operacional NEXT &mdash; empresa criada pelo Steve Jobs quando ele foi demitido de sua própria empresa &mdash;, que seria comprado pela Apple e utilizado como base para seus próximos sistemas operacionais, quando o Steve Jobs voltou como CEO.
-1. 1991:
+1. **1991**:
     - Al Gore passa um orçamento de mais de US$ 600 milhões para criar uma superinfraestrutura para a internet.
     - A World Wide Web é aberta ao público pela primeira vez.
     - Criação do protocolo Gopher.
-1. 1992: criação do browser de terminal Lynx.
-1. 1993:
+1. **1992**: criação do browser de terminal Lynx.
+1. **1993**:
     - Padronização do DSL (conexão à internet via linha telefônica)
     - Browser Mosaic: um software mais agradável para se navegar a web.
-1. 1994:
+1. **1994**:
     - Primeira versão do Netscape.
         - Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
             - Aqui GUGA pode falar sobre experiências, primeiro contato com a WEB e uso do Netscape navigator e Internet Explorer já na era Windows 95+
@@ -73,7 +73,7 @@
     - Internet na China.
     - Internet Engineering Task Force (IETF) e o primeiro RFC da Internet (IEEE).
     - Fundação da Amazon.
-1. 1995:
+1. **1995**:
     - Primeira versão do Internet Explorer (IE).
         - Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
     - Lançamento do browser Opera.
@@ -81,17 +81,17 @@
     - Brendan Eich cria JavaScript de dentro da Netscape.
     - Windows 95 é lançado.
     - Fundação do eBay.
-1. 1996:
+1. **1996**:
     - VoIP
     - O Internet Archive, catalogando e distribuindo gratuitamente milhares de livros.
-1. 1997:
+1. **1997**:
     - Fundação do Netflix.
-1. 1998:
+1. **1998**:
     - Primeira empresa anti-spam.
     - Primeiras ferramentas de blog para leigos.
     - Fundação da Google.
     - Fundação do PayPal.
-1. 1999:
+1. **1999**:
     - Fundação da Mozilla
          - Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
             - Um dos primeiros massivos diferenciais foi a funcionalidade de extensões.
@@ -99,10 +99,10 @@
     - Craigslist
     - Extensões de browser aparecem pela primeira vez no IE. Firefox começará a suportá-las a partir de 2004.
     - Fundação do Napster &mdash; que teria seu lançamento somente em 2001.
-1. 2000:
+1. **2000**:
     - Internet para a África
     - Aaron Swartz cria RSS
-1. 2001:
+1. **2001**:
     - Aaron Swartz cria o Creative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
     - Jimmy Wales cria a Wikipédia.
     - Investigação de Antitrust contra a Microsoft.
@@ -116,7 +116,7 @@
                 - [Trust vs Cartel][trust_vs_cartel]
             - Sistema operacional e browser
         - Aqui GUGA pode falar de quando o Windows 95 entrou em sua casa já com um navegador embarcado o Netscape sumiu.
-1. 2002:
+1. **2002**:
     - Firefox é lançado pela primeira vez.
     - Lançamento da rede Tor.
         - O lançamento tornou a dark web algo realmente considerável pela primeira vez.
@@ -129,37 +129,37 @@
         - Até então, era somente uma rede dentro da internet utilizando roteamento cebola.
         - Tor ajudou a denunciar governos autoritários. Uma de suas maiores contribuições foi relacionada à Primavera Árabe ao redor de 2010.
         - É, no entanto, realmente primariamente utilizado para atividades criminosas ou questionáveis.
-1. 2003:
+1. **2003**:
     - Morre o Netscape.
     - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
-1. 2004:
+1. **2004**:
     - Fundação do Facebook.
-1. 2005:
+1. **2005**:
     - YouTube é criado.
-1. 2006:
+1. **2006**:
     - Google compra o YouTube.
-1. 2007:
+1. **2007**:
     - Mais longa conexão de Wi-Fi da história: 382 km.
     - Windows Vista é lançado ao público.
     - Primeiro iPhone.
-1. 2008:
+1. **2008**:
     - Primeira publicação do Google Chrome.
         - Possui muito melhor performance e acompanha os outros produtos do ecossistema.
         - Google Chrome já vem com dispositivos spyware no próprio código.
     - Primeira versão do Android.
     - Criação do Bitcoin.
     - A versão GUI do Tor é lançada em 2008, baseada no Firefox.
-1. 2010:
+1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
-1. 2012:
+1. **2012**:
     - Windows 8 é lançado.
-1. 2015:
+1. **2015**:
     - Publicação do browser Microsoft Edge.
     - Windows 10 é lançado.
-1. 2019: Primeira publicação do browser Brave.
+1. **2019**: Primeira publicação do browser Brave.
     - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
-1. 2020:
+1. **2020**:
     - Firefox morre, e Google colhe os pedaços.
     - IE é descontinuado.
     - Microsoft apela ao chromium -> nasce o novo Edge.
