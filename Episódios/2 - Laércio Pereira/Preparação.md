@@ -20,6 +20,9 @@ A princípio, talvez o melhor formato para este episódio seja o de uma *entrevi
 1. O raciocínio do Go melhorou sua qualidade de programação?
 1. As revisões de partida no Go impactaram a sua didática e prática da programação em pares (*pair Go*)?
 1. Que conselhos você daria para quem está começando em programação?
+1. Go é um jogo muito desconhecido, portanto encontrar informação sobre o assunto pode ser bastante difícil, especialmente considerando que português é uma língua muito distante das asiáticas.
+    - Isso foi um obstáculo para você? Você já sabia inglês na época? Talvez japonês ou alguma outra língua asiática?
+    - Todo esse esforço em melhorar como pesquisador se propagou para outras áreas da sua vida?
 1. E que conselhos você daria para quem está começando no Go?
 1. Qual é a diferença entre um jogador dan e um jogador kyu?
 1. Por que jogar Go?
