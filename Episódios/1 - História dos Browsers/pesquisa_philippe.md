@@ -17,19 +17,26 @@
 
 Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para melhorá-la.
 
+1. **1925**: Fundação da Bell Labs, laboratório que criou inúmeras inovações em eletrônica.
+1. **1947**: Cientistas no Bell Labs inventam o transistor moderno.
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. **1958**: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
 1. **1965**: 
     - Charles Kao e George Hockham, da companhia britânica Standard Telephones and Cables (STC), conseguem pela primeira vez promover fibras óticas como meio de comunicação.
     - Fundação da Rede Globo.
-1. **1968**: "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
-1. **1969**: ARPANET começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
-    - Advanced Research Projects Agency Network
-    - A motivação da criação da Arpanet é questionável, há basicamente 2 sugestões:
-        - A ARPANET nasceu para conectar a rede de computadores esparsa e isolada nos EUA.
-        - Foi uma tentativa de estudo de redes distribuídas, que seriam talvez robustas o suficiente para sobreviver mesmo depois de ataques nucleares e sofrendo perdas consideráveis.
+1. **1968**:
+    - "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
+    - Fundação da Intel.
+1. **1969**:
+    - ARPANET começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
+        - Advanced Research Projects Agency Network
+        - A motivação da criação da Arpanet é questionável, há basicamente 2 sugestões:
+            - A ARPANET nasceu para conectar a rede de computadores esparsa e isolada nos EUA.
+            - Foi uma tentativa de estudo de redes distribuídas, que seriam talvez robustas o suficiente para sobreviver mesmo depois de ataques nucleares e sofrendo perdas consideráveis.
+    - Fundação da AMD.
 1. **1970**: Começo da ARPANET europeia.
+1. **1971**: Publicação do FTP (File Transfer Protocol).
 1. **1972**:
     - O primeiro email (Raymond Tomlinson para ele mesmo)
     - Ethernet
@@ -45,7 +52,10 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Vint Cerf e Robert Kahn fazem a primeira menção do termo "internet".
     - Primeira versão pública e comercial da internet.
 1. **1975**: Fundação da Microsoft.
-1. **1976**: Fundação da Apple.
+1. **1976**:
+    - Fundação da Apple.
+    - Publicação do algoritmo de troca anônima de chaves Diffie-Hellman, que origina a possibilidade de criptografia assimétrica.
+1. **1977**: Publicação do sistema de criptografia assimétrica RSA, o primeiro do tipo.
 1. **1978**: O primeiro sistema GPS (Global Positioning System) entra em funcionamento.
     - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim em já 1958.
 1. **1979**:
@@ -97,6 +107,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Padronização do DSL (conexão à internet via linha telefônica)
     - Browser Mosaic: um software mais agradável para se navegar a web.
     - Nasce o precursor do Flash &mdash; mais tarde Adobe Flash &mdash;: SmartSketch. Era um aplicativo para desenhar animações vetoriais na internet.
+    - Fundação da Nvidia.
 1. **1994**:
     - Primeira versão do Netscape.
         - Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
@@ -105,6 +116,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Internet Engineering Task Force (IETF) e o primeiro RFC da Internet (IEEE).
     - Fundação da Amazon.
     - Fundação da Jovem Pan.
+    - Nasce o conceito de Intranet.
 1. **1995**:
     - Primeira versão do Internet Explorer (IE).
         - Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
@@ -119,6 +131,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Que foi, por muito tempo, mais popular do que JS.
         - As versões iniciais do Facebook serão escritos, e provavelmente ainda são, em PHP.
     - Fundação do buscador Cadê?.
+    - Publicação do SSL, pelo Netscape &mdash; sob supervisão de Elgamal &mdash;, o algoritmo que garante segurança a muitas das conexões a servidores na internet e que, também, foi por muito tempo o que garantia a segurança de conexões HTTPS.
 1. **1996**:
     - VoIP
     - O Internet Archive, catalogando e distribuindo gratuitamente milhares de livros.
@@ -127,6 +140,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação da Valve.
 1. **1997**:
     - Fundação do Netflix.
+    - O Partido Comunista Chinês (PCC) &mdash; Ministério da Segurança Pública &mdash; publica e explicitamente declara suas proibições sobre múltiplas atividades na internet, dando origem ao termo "A Grande Firewall da China".
+        - Deng Xiaoping nos anos 1980: "Se você abrir a janela, tanto ar fresco quanto moscas vão entrar".
 1. **1998**:
     - Primeira empresa anti-spam.
     - Primeiras ferramentas de blog para leigos.
@@ -143,6 +158,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação do Napster &mdash; que teria seu lançamento somente em 2001.
     - Nasce o SourceForge, o primeiro local na internet a centralizar software gratuito e código-aberto.
     - Fundação do portal Terra, na Espanha.
+    - Padronização do TLS, o algoritmo que, hoje, garante a segurança de conexões HTTPS.
+    - Publicação do PPTP (Peer-to-Peer Transfer Protocol), o protocolo que deu origem às VPNs (Virtual Private Network).
 1. **2000**:
     - Internet para a África
     - Aaron Swartz cria RSS
@@ -177,6 +194,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Até então, era somente uma rede dentro da internet utilizando roteamento cebola.
         - Tor ajudou a denunciar governos autoritários. Uma de suas maiores contribuições foi relacionada à Primavera Árabe ao redor de 2010.
         - É, no entanto, realmente primariamente utilizado para atividades criminosas ou questionáveis.
+    - MIT OpenCourseWare é lançado ao público, sob a licença do Creative Commons.
 1. **2003**:
     - Morre o Netscape.
     - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
@@ -212,6 +230,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Primeiro iPhone.
     - Nasce o Pornhub.
         - Pornografia representa mais de 20% de todas as procuras na internet. O tráfego de dados pornográficos na internet é bem maior do que o do Netflix.
+    - Palo Alto Networks, por Nir Zuk, começa a venda do primeiro Firewall de redes.
 1. **2008**:
     - Primeira publicação do Google Chrome.
         - Possui muito melhor performance e acompanha os outros produtos do ecossistema.
@@ -230,6 +249,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
     - IoT: a razão de coisas/pessoas cresce de 0.08 em 2003 para 1.84 em 2010.
+    - Fundação da Udemy.
 1. **2012**:
     - Windows 8 é lançado.
     - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
@@ -237,6 +257,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Microsoft lança a versão tipada de JS: TypeScript.
     - Fundação da empresa Oculus VR, que lidera tecnologicamente o mercado de realidade virtual.
     - Nasce NordVPN.
+    - Fundação da Coursera.
 1. **2013**:
     - 4G começa a substituir 3G.
         - 4G já não suporta mais tecnologias de telefonia clássicas, tudo é baseado nos protocolos da internet.
