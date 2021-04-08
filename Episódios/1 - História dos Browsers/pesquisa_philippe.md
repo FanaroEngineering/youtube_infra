@@ -22,9 +22,10 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. **1958**: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
-1. **1965**: 
+1. **1965**:
     - Charles Kao e George Hockham, da companhia britânica Standard Telephones and Cables (STC), conseguem pela primeira vez promover fibras óticas como meio de comunicação.
     - Fundação da Rede Globo.
+1. **1967**: Primeiro evento CES (Consumer Electronics Show).
 1. **1968**:
     - "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
     - Fundação da Intel.
@@ -56,8 +57,10 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação da Apple.
     - Publicação do algoritmo de troca anônima de chaves Diffie-Hellman, que origina a possibilidade de criptografia assimétrica.
 1. **1977**: Publicação do sistema de criptografia assimétrica RSA, o primeiro do tipo.
-1. **1978**: O primeiro sistema GPS (Global Positioning System) entra em funcionamento.
-    - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim em já 1958.
+1. **1978**:
+    - O primeiro sistema GPS (Global Positioning System) entra em funcionamento.
+        - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim em já 1958.
+    - MUD (Multi-User Dungeon), o primeiro videogame online. Só será lançado na ARPANET em 1980 na verdade.
 1. **1979**:
     - 1G: primeira rede de telefonia sem fio (celular), no Japão.
 1. **1982**:
@@ -114,6 +117,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Browser Mosaic: um software mais agradável para se navegar a web.
     - Nasce o precursor do Flash &mdash; mais tarde Adobe Flash &mdash;: SmartSketch. Era um aplicativo para desenhar animações vetoriais na internet.
     - Fundação da Nvidia.
+    - Doom é um grande sucesso e populariza o termo "death match".
 1. **1994**:
     - Primeira versão do Netscape.
         - Netscape tenta trazer navegação ao usuário comum. Ao fazê-lo, demonstra o potencial financeiro da internet.
@@ -145,6 +149,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação do UOL (Universo Online).
     - Fundação da Valve.
     - Lançamento do Hotmail.
+    - Quakeworld é lançado, a versão multiplayer de Quake.
 1. **1997**:
     - Fundação do Netflix.
     - O Partido Comunista Chinês (PCC) &mdash; Ministério da Segurança Pública &mdash; publica e explicitamente declara suas proibições sobre múltiplas atividades na internet, dando origem ao termo "A Grande Firewall da China".
@@ -156,6 +161,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação do PayPal.
     - Primeira publicação do DOM (Document Object Model).
         - A padronização, em árvore, de como um documento HTML/XML deve ser traduzido em objetos pela linguagem de programação que o manipula.
+    - Lançamento do Starcraft.
 1. **1999**:
     - Fundação da Mozilla
          - Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
@@ -169,12 +175,15 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Publicação do PPTP (Peer-to-Peer Transfer Protocol), o protocolo que deu origem às VPNs (Virtual Private Network).
     - Lançamento do MSN Messenger.
     - Primeira versão do iMovie.
+    - Lançamento do Counter-Strike.
 1. **2000**:
     - Internet para a África
     - Aaron Swartz cria RSS
     - Criação do portal iG (Internet Group do Brasil).
         - Será vendido à Brasil Telecom em 2004 por $100M.
     - Criação do Evernote.
+    - Sony abilita multiplayer online para PlayStation 2.
+    - Fundação do eharmony.
 1. **2001**:
     - Aaron Swartz cria o Creative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
         - Uma plataforma para aumentar o alcance educacional da internet, além de auxiliar nos problemas legais que criadores possam vir a ter.
@@ -205,6 +214,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Tor ajudou a denunciar governos autoritários. Uma de suas maiores contribuições foi relacionada à Primavera Árabe ao redor de 2010.
         - É, no entanto, realmente primariamente utilizado para atividades criminosas ou questionáveis.
     - MIT OpenCourseWare é lançado ao público, sob a licença do Creative Commons.
+    - Lançamento do Warcraft III.
+    - Criação do Xbox Live.
 1. **2003**:
     - Morre o Netscape.
     - Nasce o browser Safari, o browser nativo de aparelhos da Apple.
@@ -212,6 +223,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Nasce o 4chan, fonte de memes obscuros e muito material tóxico na internet.
     - Nascimento da plataforma Steam.
     - Fundação do Skype.
+    - O mod de Warcraft III extremamente popular DotA (Defense of the Ancients) é lançado.
 1. **2004**:
     - Fundação do Facebook.
     - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
@@ -221,8 +233,11 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
             - CoC: Convention over Configuration
             - DRY: Don't Repeat Yourself
     - Lançamento do Gmail.
+    - Lançamento do World of Warcraft (WoW), maior expoente dos MMORPGs.
+    - Criação/conversão da rede online do PlayStation para PSN (PlayStation Network).
 1. **2005**:
     - YouTube é criado.
+        - Começou como uma plataforma para compartilhar vídeos com o intuito de criar relacionamentos (casais).
     - Fundação do maior fórum do mundo &mdash; e autoproclamada página principal da internet &mdash;: Reddit.
         - Um de seus fundadores foi o próprio Aaron Swartz.
     - Adobe compra o Flash.
@@ -232,6 +247,9 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Nasce MDN, a documentação mais extensiva e precisa das tecnologias web.
     - Google Maps é lançado.
     - Primeira versão do Google Calendar.
+    - Paul Graham e outros fundam o Y Combinator, companhia que ajuda startups a dar certo e basicamente criou o conceito de incubadora.
+        - Alguns dos grandes sucessos do Y Combinator: Stripe, Airbnb, Cruise Automation, DoorDash, Coinbase, Instacart, Dropbox, Twitch, and Reddit.
+        - Manejam US$ 300bi (2021).
 1. **2006**:
     - Google compra o YouTube.
     - Nasce o jQuery.
@@ -240,6 +258,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Uma das primeiras rede de computação em nuvem comercialmente viável em larga escala (Elastic Compute Cloud).
     - Nascimento do Twitter.
     - Criação do Spotify, em Estocolmo.
+    - Nintendo lança o Wii, já com suporte para multiplayer online.
 1. **2007**:
     - Mais longa conexão de Wi-Fi da história: 382 km.
     - Windows Vista é lançado ao público.
@@ -247,6 +266,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Nasce o Pornhub.
         - Pornografia representa mais de 20% de todas as procuras na internet. O tráfego de dados pornográficos na internet é bem maior do que o do Netflix.
     - Palo Alto Networks, por Nir Zuk, começa a venda do primeiro Firewall de redes.
+    - Justin.tv é lançado em 2007.
+    - Zynga começa sua plataforma de jogos no Facebook.
 1. **2008**:
     - Primeira publicação do Google Chrome.
         - Possui muito melhor performance e acompanha os outros produtos do ecossistema.
@@ -271,10 +292,13 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - IoT: a razão de coisas/pessoas cresce de 0.08 em 2003 para 1.84 em 2010.
     - Fundação da Udemy.
     - Fundação do Instagram.
+    - Lançamento do League of Legends (LoL), baseado no mod de Warcraft III DotA.
 1. **2011**:
     - Microsoft compra Skype.
     - Primeira versão do Adobe Creative Cloud.
     - Fundação do ifood.
+    - Fundação do Twitch.
+        - Originalmente justin.tv, baseado em um reality show sobre a vida de um dos fundadores: Justin Kan. Hoje o Justin Kan possui inclusive um canal próprio no YouTube.
 1. **2012**:
     - Windows 8 é lançado.
     - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
@@ -285,6 +309,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação da Coursera.
     - Lançamento da plataforma Medium.
     - Lançamento do Google Drive.
+    - Primeira publicação do Tinder.
 1. **2013**:
     - 4G começa a substituir 3G.
         - 4G já não suporta mais tecnologias de telefonia clássicas, tudo é baseado nos protocolos da internet.
@@ -303,6 +328,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **2016**:
     - Microsoft compra o LinkedIn.
     - Google sua versão mais moderna do React: Angular.
+    - Lançamento do Pokémon Go.
+1. **2017**: Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
 1. **2019**:
     - Primeira publicação do browser Brave.
         - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
@@ -310,6 +337,9 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Uma versão mais moderna do Gopher.
         - Não extensível
         - É possível rodar código no servidor no entanto.
+    - Google lança Stadia, primeira grande (mega) iniciativa comercial de videogames na nuvem.
+        - Não vem dando certo por falta de infraestrutura e impossibilidades/dificuldades técnicas.
+        - Google oscilará em terminar o serviço ou não já em seu primeiro ano.
 1. **2020**:
     - Início da Pandemia: as pessoas agora primariamanete trabalham de casa, via internet.
     - Firefox morre, e Google colhe os pedaços.
@@ -376,6 +406,8 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
     - [Wikipédia - Deep Web][wikipedia_deep_web]
     - [Wikipédia - Dark web][wikipedia_dark_web]
     - [Did Prosecutors Go Too Far In Swartz Case?][aaron_swartz_suicide]
+    - [Wikipédia - History of Online Games][wikipedia_online_games]
+    - [Datapath.io - The History of Online Gaming][medium_online_videogame_history]
 - Imagens
     - [Versões de todos os browsers da história][wikipedia_browser_timeline]
         - No entanto, Brave não está lá.
@@ -423,6 +455,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
 [internet_timeline]: https://www.internethalloffame.org/internet-history/timeline
 [investopedia_dotcom_bubble]: https://www.investopedia.com/terms/d/dotcom-bubble.asp
 [jefferson_timeline]: https://online.jefferson.edu/business/internet-history-timeline/
+[medium_online_videogame_history]: https://medium.com/@datapath_io/the-history-of-online-gaming-2e70d51ab437
 [mental_outlaw_gemini]: https://odysee.com/@AlphaNerd:8/gemini-an-even-better-internet-protocol:0
 [michael_mjd_netscape]: https://youtu.be/LOWOLJci8d8
 [mr_robot]: https://www.imdb.com/title/tt4158110/
@@ -438,10 +471,11 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
 [wikipedia_browser_timeline]: https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg
 [wikipedia_browser_wars]: https://en.wikipedia.org/wiki/Browser_wars
 [wikipedia_clarke]: https://en.wikipedia.org/wiki/File:ABC_Clarke_predicts_internet_and_PC.ogv
+[wikipedia_competition_law]: https://en.wikipedia.org/wiki/Competition_law
 [wikipedia_dark_web]: https://en.wikipedia.org/wiki/Dark_web
 [wikipedia_deep_web]: https://en.wikipedia.org/wiki/Deep_web
 [wikipedia_internet_history]: https://en.wikipedia.org/wiki/History_of_the_Internet
-[wikipedia_competition_law]: https://en.wikipedia.org/wiki/Competition_law
+[wikipedia_online_games]: https://en.wikipedia.org/wiki/History_of_online_games
 [wikipedia_tor]: https://en.wikipedia.org/wiki/Tor_(anonymity_network)
 [wikipedia_usa_vs_microsoft]: https://en.wikipedia.org/wiki/Browser_wars
 [windows_12_1]: https://youtu.be/qW7urFcgJko
