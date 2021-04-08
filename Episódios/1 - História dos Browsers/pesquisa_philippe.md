@@ -60,7 +60,9 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim em já 1958.
 1. **1979**:
     - 1G: primeira rede de telefonia sem fio (celular), no Japão.
-1. **1982**: a Ásia se conecta à internet.
+1. **1982**:
+    - A Ásia se conecta à internet.
+    - Fundação da Adobe.
 1. **1983**:
     - ARPANET transiciona totalmente para TCP/IP, o início da internet moderna.
         - TCP/IP está em uma camada superior de abstração, o que faz com que ele consiga unificar diferentes outros sistemas de camada inferior.
@@ -74,11 +76,14 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 1. **1984**: Tom Love e Brad Cox publicam Objective-C.
     - A versão/evolução OOP de C.
     - Será a linguagem do SO NEXT, levado à Apple pelo Steve Jobs, e que, depois, será a linguagem do iOS.
-1. **1985**: Bjarne Stroustroup completa o primeiro design da linguagem de programação C++, a evolução supostamente canônica de C.
-    - E que será utilizada na construção do Bitcoin, dentre outros.
+1. **1985**:
+    - Bjarne Stroustroup completa o primeiro design da linguagem de programação C++, a evolução supostamente canônica de C.
+        - E que será utilizada na construção do Bitcoin, dentre outros.
+    - Início do desenvolvimento do Adobe Illustrator.
 1. **1987**:
     - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
     - Douglas Cormer escreve o primeiro livro sobre TCP/IP.
+    - Primeira versão do Photoshop (fora da Adobe).
 1. **1989**:
     - Archie Query, o primeiro buscador da internet.
     - Tim Berners-Lee cria a World Wide Web.
@@ -102,6 +107,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Nasce a linguagem Python, que, assim como Ruby, tenta simplificar a burocracia do dia a dia do programador.
         - É um tópico extenso.
         - Será a linguagem da ciência de dados no futuro.
+    - Introdução do software Adobe Premiere, de edição de vídeo.
 1. **1992**: criação do browser de terminal Lynx.
 1. **1993**:
     - Padronização do DSL (conexão à internet via linha telefônica)
@@ -138,6 +144,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Primeira publicação do CSS.
     - Fundação do UOL (Universo Online).
     - Fundação da Valve.
+    - Lançamento do Hotmail.
 1. **1997**:
     - Fundação do Netflix.
     - O Partido Comunista Chinês (PCC) &mdash; Ministério da Segurança Pública &mdash; publica e explicitamente declara suas proibições sobre múltiplas atividades na internet, dando origem ao termo "A Grande Firewall da China".
@@ -160,11 +167,14 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação do portal Terra, na Espanha.
     - Padronização do TLS, o algoritmo que, hoje, garante a segurança de conexões HTTPS.
     - Publicação do PPTP (Peer-to-Peer Transfer Protocol), o protocolo que deu origem às VPNs (Virtual Private Network).
+    - Lançamento do MSN Messenger.
+    - Primeira versão do iMovie.
 1. **2000**:
     - Internet para a África
     - Aaron Swartz cria RSS
     - Criação do portal iG (Internet Group do Brasil).
         - Será vendido à Brasil Telecom em 2004 por $100M.
+    - Criação do Evernote.
 1. **2001**:
     - Aaron Swartz cria o Creative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
         - Uma plataforma para aumentar o alcance educacional da internet, além de auxiliar nos problemas legais que criadores possam vir a ter.
@@ -201,6 +211,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação do LinkedIn, por ex-funcionários do PayPal.
     - Nasce o 4chan, fonte de memes obscuros e muito material tóxico na internet.
     - Nascimento da plataforma Steam.
+    - Fundação do Skype.
 1. **2004**:
     - Fundação do Facebook.
     - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
@@ -209,6 +220,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
             - MVC (criado nos anos 1970 para Smalltalk): Model-View-Controller
             - CoC: Convention over Configuration
             - DRY: Don't Repeat Yourself
+    - Lançamento do Gmail.
 1. **2005**:
     - YouTube é criado.
     - Fundação do maior fórum do mundo &mdash; e autoproclamada página principal da internet &mdash;: Reddit.
@@ -218,12 +230,16 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Nasce o framwork Django.
         - Também baseado no MVC.
     - Nasce MDN, a documentação mais extensiva e precisa das tecnologias web.
+    - Google Maps é lançado.
+    - Primeira versão do Google Calendar.
 1. **2006**:
     - Google compra o YouTube.
     - Nasce o jQuery.
         - Que foi, durante muito tempo, o framework que representava a única maneira de se manipular *bem* o DOM através de JS.
     - AWS vai além da web e cria um serviço de computação em nuvem.
         - Uma das primeiras rede de computação em nuvem comercialmente viável em larga escala (Elastic Compute Cloud).
+    - Nascimento do Twitter.
+    - Criação do Spotify, em Estocolmo.
 1. **2007**:
     - Mais longa conexão de Wi-Fi da história: 382 km.
     - Windows Vista é lançado ao público.
@@ -244,12 +260,21 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Github foi originalmente construído com Ruby on Rails.
     - Aparece a primeira ferramenta de inspeção de browser.
     - Nasce a Google Cloud Platform, a principal concorrente da AWS.
-1. **2009**: Fundação da ExpressVPN.
+1. **2009**:
+    - Fundação da ExpressVPN.
+    - Nascimento do WhatsApp.
+    - Lançamento da Uber.
+    - Fundação do Dropbox.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
     - IoT: a razão de coisas/pessoas cresce de 0.08 em 2003 para 1.84 em 2010.
     - Fundação da Udemy.
+    - Fundação do Instagram.
+1. **2011**:
+    - Microsoft compra Skype.
+    - Primeira versão do Adobe Creative Cloud.
+    - Fundação do ifood.
 1. **2012**:
     - Windows 8 é lançado.
     - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
@@ -258,6 +283,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação da empresa Oculus VR, que lidera tecnologicamente o mercado de realidade virtual.
     - Nasce NordVPN.
     - Fundação da Coursera.
+    - Lançamento da plataforma Medium.
+    - Lançamento do Google Drive.
 1. **2013**:
     - 4G começa a substituir 3G.
         - 4G já não suporta mais tecnologias de telefonia clássicas, tudo é baseado nos protocolos da internet.
@@ -265,11 +292,14 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Um framework que sistematiza de uma maneira extremamente simples a manipulação de elementos do DOM.
         - Possibilita mais facilmente SPAs.
     - Aaron é acusado e atacado ostensivamente pelo Departamento de Justiça Americano. A pressão é tamanha que ele se suicida.
+    - Fundação do Slack.
+    - Publicação do Telegram.
 1. **2014**: Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
 1. **2015**:
     - Publicação do browser Microsoft Edge.
     - Windows 10 é lançado.
     - Nasce o Globo Play.
+    - Início do desenvolvimento no Adobe XD.
 1. **2016**:
     - Microsoft compra o LinkedIn.
     - Google sua versão mais moderna do React: Angular.
@@ -281,6 +311,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
         - Não extensível
         - É possível rodar código no servidor no entanto.
 1. **2020**:
+    - Início da Pandemia: as pessoas agora primariamanete trabalham de casa, via internet.
     - Firefox morre, e Google colhe os pedaços.
     - Fim do Adobe Flash.
     - IE é descontinuado.
@@ -362,6 +393,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
     - [Wikipédia - History of the Internet][wikipedia_internet_history]
     - [SOS Can Help - History of the Dark Web (Timeline)][sos_can_help_history_of_the_dark_web]
     - [Mental Outlaw - Gemini - An Even Better Internet Protocol][mental_outlaw_gemini]
+    - [ColdFusion - Scandal and Betrayal: The Story of How Twitter Started][coldfusion_twitter]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo/Google.
@@ -384,6 +416,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
 [brendan_eich_lex_fridman]: https://youtu.be/krB0enBeSiE
 [captain_gizmo_data_visualization]: https://youtu.be/W4wWdmfOibY
 [coldfusion_internet]: https://youtu.be/8sTy8466MoE
+[coldfusion_twitter]: https://youtu.be/p8N0xN0ihMA
 [distrotube_minimal_browsers]: https://youtu.be/b8kxdiskGzI
 [fireship_js]: https://youtu.be/Sh6lK57Cuk4
 [halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
