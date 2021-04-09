@@ -17,6 +17,8 @@
 
 Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para melhorá-la.
 
+Ainda não incluí eventos sobre velocidades na internet, pois elas variam demais em diferentes regiões do planeta, o que dificulta homogenizar a linha do tempo.
+
 1. **1925**: Fundação da Bell Labs, laboratório que criou inúmeras inovações em eletrônica.
 1. **1947**: Cientistas no Bell Labs inventam o transistor moderno.
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
@@ -150,6 +152,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação da Valve.
     - Lançamento do Hotmail.
     - Quakeworld é lançado, a versão multiplayer de Quake.
+    - John O'Sullivan patenteia a tecnologia que possibilitará o Wi-Fi, tentando, na verdade, detectar buracos negros do tamanho de átomos.
+        - Ele ganhará mais de US$ 430M em royalties na patente, especialmente depois de um longo processo de indenização.
 1. **1997**:
     - Fundação do Netflix.
     - O Partido Comunista Chinês (PCC) &mdash; Ministério da Segurança Pública &mdash; publica e explicitamente declara suas proibições sobre múltiplas atividades na internet, dando origem ao termo "A Grande Firewall da China".
@@ -162,6 +166,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Primeira publicação do DOM (Document Object Model).
         - A padronização, em árvore, de como um documento HTML/XML deve ser traduzido em objetos pela linguagem de programação que o manipula.
     - Lançamento do Starcraft.
+    - Primeiro site de apostas de Poker online com dinheiro real.
+    - Fundação da Tencent.
 1. **1999**:
     - Fundação da Mozilla
          - Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
@@ -184,6 +190,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Criação do Evernote.
     - Sony abilita multiplayer online para PlayStation 2.
     - Fundação do eharmony.
+    - Fundação do Baidu.
 1. **2001**:
     - Aaron Swartz cria o Creative Commons juntamente com o professor de Direito de Harvard, Lawrence Lessig.
         - Uma plataforma para aumentar o alcance educacional da internet, além de auxiliar nos problemas legais que criadores possam vir a ter.
@@ -199,6 +206,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
                 - [Trust vs Cartel][trust_vs_cartel]
             - Sistema operacional e browser
         - Este caso não teve nada a ver com o pagamento de $150M que a Apple recebeu da Microsoft na época. Esse pagamento é relacionado a plágio no código do QuickTime.
+    - Fundação do PokerStars.com, maior site de Poker do mundo, pelo menos durante muito tempo.
 1. **2002**:
     - Primeira versão comercial viável de 3G, na Coreia do Sul (SK Telecom).
     - Firefox é lançado pela primeira vez.
@@ -224,6 +232,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Nascimento da plataforma Steam.
     - Fundação do Skype.
     - O mod de Warcraft III extremamente popular DotA (Defense of the Ancients) é lançado.
+    - Criação do Myspace.
 1. **2004**:
     - Fundação do Facebook.
     - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
@@ -235,6 +244,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Lançamento do Gmail.
     - Lançamento do World of Warcraft (WoW), maior expoente dos MMORPGs.
     - Criação/conversão da rede online do PlayStation para PSN (PlayStation Network).
+    - Criação do Orkut.
 1. **2005**:
     - YouTube é criado.
         - Começou como uma plataforma para compartilhar vídeos com o intuito de criar relacionamentos (casais).
@@ -293,6 +303,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Fundação da Udemy.
     - Fundação do Instagram.
     - Lançamento do League of Legends (LoL), baseado no mod de Warcraft III DotA.
+    - Fundação da Weibo.
 1. **2011**:
     - Microsoft compra Skype.
     - Primeira versão do Adobe Creative Cloud.
@@ -319,17 +330,26 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Aaron é acusado e atacado ostensivamente pelo Departamento de Justiça Americano. A pressão é tamanha que ele se suicida.
     - Fundação do Slack.
     - Publicação do Telegram.
-1. **2014**: Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
+1. **2014**: 
+    - Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
+    - Lançamento do aplicativo Signal.
+    - Amazon compra o Twitch.
+    - Lançamento do jogo Hearthstone.
 1. **2015**:
     - Publicação do browser Microsoft Edge.
     - Windows 10 é lançado.
     - Nasce o Globo Play.
     - Início do desenvolvimento no Adobe XD.
+    - Uso de *Machine Learning* é confirmado nas pesquisas do Google: RankBrain.
 1. **2016**:
     - Microsoft compra o LinkedIn.
     - Google sua versão mais moderna do React: Angular.
     - Lançamento do Pokémon Go.
 1. **2017**: Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
+1. **2018**:
+    - Lançamento do Starlink, pela SpaceX do Elon Musk, que visa dar acesso a internet ao mundo inteiro, via uma constelação de satélites.
+        - As velocidades são aparentemente bem razoáveis.
+    - O casamento real entre Meghan Markle e o príncipe Harry é transmitido no YouTube ao vivo, com um pico de mais de 1.3M de telespectadores.
 1. **2019**:
     - Primeira publicação do browser Brave.
         - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
@@ -340,6 +360,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Google lança Stadia, primeira grande (mega) iniciativa comercial de videogames na nuvem.
         - Não vem dando certo por falta de infraestrutura e impossibilidades/dificuldades técnicas.
         - Google oscilará em terminar o serviço ou não já em seu primeiro ano.
+    - Começa a transição comercial para 5G.
 1. **2020**:
     - Início da Pandemia: as pessoas agora primariamanete trabalham de casa, via internet.
     - Firefox morre, e Google colhe os pedaços.
@@ -350,6 +371,8 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
     - Mais uma bolha do Bitcoin, no meio de uma pandemia.
     - NFTs disparam e criam um mercado de centenas de bilhões de dólares.
         - Beeple vende uma coleção de suas obras por US$ 69M.
+    - Vazamento de dados de mais de 500M de pessoas no Facebook.
+    - No Twitch, TheGrefg estabelece o recorde de 2.4M de visualizadores em sua transmissão.
 
 ## 3. Discussão sobre os browsers que utilizamos atualmente
 
@@ -426,6 +449,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
     - [SOS Can Help - History of the Dark Web (Timeline)][sos_can_help_history_of_the_dark_web]
     - [Mental Outlaw - Gemini - An Even Better Internet Protocol][mental_outlaw_gemini]
     - [ColdFusion - Scandal and Betrayal: The Story of How Twitter Started][coldfusion_twitter]
+    - [ColdFusion - The Strange Origins of Wi-Fi – An Australian Invention?][coldfusion_wifi]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo/Google.
@@ -449,6 +473,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
 [captain_gizmo_data_visualization]: https://youtu.be/W4wWdmfOibY
 [coldfusion_internet]: https://youtu.be/8sTy8466MoE
 [coldfusion_twitter]: https://youtu.be/p8N0xN0ihMA
+[coldfusion_wifi]: https://youtu.be/McbsxihcQS0
 [distrotube_minimal_browsers]: https://youtu.be/b8kxdiskGzI
 [fireship_js]: https://youtu.be/Sh6lK57Cuk4
 [halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
