@@ -27,3 +27,47 @@ A princípio, talvez o melhor formato para este episódio seja o de uma *entrevi
 1. Qual é a diferença entre um jogador dan e um jogador kyu?
 1. Por que jogar Go?
     - Além de tudo que já foi discutido, há mais algum motivo não citado?
+1. Alguma nota final?
+
+## Alguns Pontos da Reunião com o Laércio
+
+- Ajudou mais na parte gerencial do dia a dia.
+- Ajudou a ver que nao dá pra ganhar tudo.
+- Xadrez não é tão abstrato, consegue ter paralelos com conceitos na vida real.
+    - Difícil de se relacionar com o Go e causar motivação.
+
+- Incluir uma pergunta sobre o que ele faz. E onde ele trabalha.
+    - TDD, BDD, XP.
+
+- TDD e Tsumego.
+    - Partes unitárias mais fortes são mais fáceis de se manter.
+
+- Hugo: Apresentar o Go.
+    - Onde jogar?
+    - Como começar?
+    - Tenha alguém do seu lado na hora de aprender Go, além do tutorial.
+    - Top 3 de livros de Go.
+
+- Jogar em par é como um streaming de Go. Revisão ao vivo e contínua.
+- Revisão no Go seria mais algo como code review.
+
+- Use projetos de seu próprio interesse para aprender a programar.
+
+- Go implicitamente demandou uma pesquisa e outra maneira de pensar, algo que o Laércio pôde transferir para a programação depois de um tempo.
+
+- Go ajudou a lidar com uma espécie de síndrome do impostor talvez.
+    - Eu acho que é mais talvez insegurança.
+
+- Kyu repete as coisas que ele vê nos outros jogadores.
+
+- Go ajuda a fugir da realidade.
+
+---
+
+Projetos que o Laércio quer fazer:
+
+- Ensinar Go!
+
+---
+
+Enfatizar que o Laércio teve o benefício de uma introdução contextualizada e direcionada ao Go.
