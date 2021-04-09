@@ -345,7 +345,10 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Microsoft compra o LinkedIn.
     - Google sua versão mais moderna do React: Angular.
     - Lançamento do Pokémon Go.
-1. **2017**: Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
+1. **2017**:
+    - Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
+    - Transmissões ao vivo são lançadas na plataforma principal do YouTube.
+        - A funcionalidade de Super Chat é lançada pouco depois.
 1. **2018**:
     - Lançamento do Starlink, pela SpaceX do Elon Musk, que visa dar acesso a internet ao mundo inteiro, via uma constelação de satélites.
         - As velocidades são aparentemente bem razoáveis.
