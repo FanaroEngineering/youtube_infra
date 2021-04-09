@@ -24,20 +24,22 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
 1. **1958**: Bell Labs inventam o modem, que converte sinais analógicos a digitais e vice-versa. No mesmo ano, os EUA criam a ARPA (Advanced Research Project Agency).
+1. **1963**: Fundação da IEEE (Institute of Electrical and Electronics Engineering).
 1. **1965**:
     - Charles Kao e George Hockham, da companhia britânica Standard Telephones and Cables (STC), conseguem pela primeira vez promover fibras óticas como meio de comunicação.
     - Fundação da Rede Globo.
 1. **1967**: Primeiro evento CES (Consumer Electronics Show).
 1. **1968**:
     - "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
-    - Fundação da Intel.
+    - Fundação da Intel, por Gordon Moore e Robert Noyce.
+        - Que veio da Fairchild Semiconductor, que veio, por sua vez, dos inventores do transistor na Bell Labs depois de desavenças com William Shockley.
 1. **1969**:
     - ARPANET começa seu funcionamento, o precursor da internet moderna, apesar de que telefonia e outros meios de comunicação já foram análogos.
         - Advanced Research Projects Agency Network
         - A motivação da criação da Arpanet é questionável, há basicamente 2 sugestões:
             - A ARPANET nasceu para conectar a rede de computadores esparsa e isolada nos EUA.
             - Foi uma tentativa de estudo de redes distribuídas, que seriam talvez robustas o suficiente para sobreviver mesmo depois de ataques nucleares e sofrendo perdas consideráveis.
-    - Fundação da AMD.
+    - Fundação da AMD, também com membros da Fairchild Semiconductor.
 1. **1970**: Começo da ARPANET europeia.
 1. **1971**: Publicação do FTP (File Transfer Protocol).
 1. **1972**:
@@ -45,6 +47,8 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Ethernet
         - O Ethernet original utilizava cabo coaxial, enquanto hoje é ou par trançado ou fibra ótica.
     - Criação da linguagem C, por Dennis Ritchie no Bell Labs.
+        - C ainda é uma das linguagens de infraestrutura mais utilizadas do mundo.
+        - É também a base da maioria dos browsers.
 1. **1973**:
     - TCP/IP
         - Menção breve às 7 camadas da internet (OSI Model (Open Systems Interconnection model)).
@@ -61,7 +65,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
 1. **1977**: Publicação do sistema de criptografia assimétrica RSA, o primeiro do tipo.
 1. **1978**:
     - O primeiro sistema GPS (Global Positioning System) entra em funcionamento.
-        - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim em já 1958.
+        - Lembrando que Arthur C. Clarke, o escritor de ficção científica e cientista, previu algo assim já em 1958.
     - MUD (Multi-User Dungeon), o primeiro videogame online. Só será lançado na ARPANET em 1980 na verdade.
 1. **1979**:
     - 1G: primeira rede de telefonia sem fio (celular), no Japão.
@@ -76,14 +80,14 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
         - GNU é uma sigla recursiva: "GNU não é UNIX!", pois difere do UNIX em termos de código e também é 100% livre.
         - Gnu também é um animal.
         - É o começo da filosofia de código aberto, algo que influenciaria Linus Torvalds mais tarde na criação do Linux.
-        - Até então, UNIX era licensiado às universidades, mas, em 1983, AT&T foi desobrigada a licensiá-lo e partiu a vendê-lo como caixa preta.
+        - Até então, UNIX era licensiado às universidades, mas, em 1983, AT&T foi desobrigada a licensiá-lo e partiu a vendê-lo como caixa preta, o que dificultou personalização do sistema e criação de novas tecnologias em cima do sistema operacional.
         - Linux tomará as rédeas da guerra UNIX, a partir do legado do Stallman, nos anos 1990.
 1. **1984**: Tom Love e Brad Cox publicam Objective-C.
     - A versão/evolução OOP de C.
-    - Será a linguagem do SO NEXT, levado à Apple pelo Steve Jobs, e que, depois, será a linguagem do iOS.
+    - Será a linguagem do SO NEXT, levado à Apple pelo Steve Jobs, e que, depois, também será a linguagem do iOS.
 1. **1985**:
-    - Bjarne Stroustroup completa o primeiro design da linguagem de programação C++, a evolução supostamente canônica de C.
-        - E que será utilizada na construção do Bitcoin, dentre outros.
+    - Bjarne Stroustroup, do Bell Labs, completa o primeiro design da linguagem de programação C++, a evolução supostamente canônica de C.
+        - E que será utilizada na construção do Bitcoin, dentre outros lugares chaves na história da internet.
     - Início do desenvolvimento do Adobe Illustrator.
 1. **1987**:
     - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
@@ -139,7 +143,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Windows 95 é lançado.
     - Fundação do eBay.
     - Nasce a linguagem de programação Ruby.
-    - Também nasce a linguagem de programação PHP
+    - Também nasce a linguagem de programação PHP.
         - Que foi, por muito tempo, mais popular do que JS.
         - As versões iniciais do Facebook serão escritos, e provavelmente ainda são, em PHP.
     - Fundação do buscador Cadê?.
@@ -183,8 +187,8 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Primeira versão do iMovie.
     - Lançamento do Counter-Strike.
 1. **2000**:
-    - Internet para a África
-    - Aaron Swartz cria RSS
+    - Internet para a África.
+    - Aaron Swartz cria RSS.
     - Criação do portal iG (Internet Group do Brasil).
         - Será vendido à Brasil Telecom em 2004 por $100M.
     - Criação do Evernote.
@@ -269,6 +273,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Nascimento do Twitter.
     - Criação do Spotify, em Estocolmo.
     - Nintendo lança o Wii, já com suporte para multiplayer online.
+    - Lançamento da rede social russa VK.
 1. **2007**:
     - Mais longa conexão de Wi-Fi da história: 382 km.
     - Windows Vista é lançado ao público.
@@ -296,6 +301,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Nascimento do WhatsApp.
     - Lançamento da Uber.
     - Fundação do Dropbox.
+        - Apostam e capitalizam em viralidade para crescer exponencialmente.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
@@ -308,8 +314,9 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Microsoft compra Skype.
     - Primeira versão do Adobe Creative Cloud.
     - Fundação do ifood.
-    - Fundação do Twitch.
+    - Justin.tv é rebatizado como Twitch.
         - Originalmente justin.tv, baseado em um reality show sobre a vida de um dos fundadores: Justin Kan. Hoje o Justin Kan possui inclusive um canal próprio no YouTube.
+    - Lançamento do Snapchat.
 1. **2012**:
     - Windows 8 é lançado.
     - AlexNet, algoritmo criado por Alex Krizhevsky, Ilya Sutskever and Geoffrey Hinton, vence disparado a maior competição de reconhecimento de imagens, dando início à corrida da Ciência de Dados.
@@ -327,10 +334,11 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Facebook lança o React.
         - Um framework que sistematiza de uma maneira extremamente simples a manipulação de elementos do DOM.
         - Possibilita mais facilmente SPAs.
-    - Aaron é acusado e atacado ostensivamente pelo Departamento de Justiça Americano. A pressão é tamanha que ele se suicida.
+    - Aaron Swartz é acusado e atacado ostensivamente pelo Departamento de Justiça Americano. A pressão é tamanha que ele se suicida.
     - Fundação do Slack.
     - Publicação do Telegram.
-1. **2014**: 
+    - Vine (Twitter).
+1. **2014**:
     - Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
     - Lançamento do aplicativo Signal.
     - Amazon compra o Twitch.
@@ -345,6 +353,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Microsoft compra o LinkedIn.
     - Google sua versão mais moderna do React: Angular.
     - Lançamento do Pokémon Go.
+    - Lançamento do TikTok.
 1. **2017**:
     - Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
     - Transmissões ao vivo são lançadas na plataforma principal do YouTube.
@@ -364,6 +373,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
         - Não vem dando certo por falta de infraestrutura e impossibilidades/dificuldades técnicas.
         - Google oscilará em terminar o serviço ou não já em seu primeiro ano.
     - Começa a transição comercial para 5G.
+        - Huawei domina a tecnologia mas começa a ser sistematicamente acusada de espionagem, devido às suas ligações profundas com o maior governo espião do mundo, o PCC.
 1. **2020**:
     - Início da Pandemia: as pessoas agora primariamanete trabalham de casa, via internet.
     - Firefox morre, e Google colhe os pedaços.
