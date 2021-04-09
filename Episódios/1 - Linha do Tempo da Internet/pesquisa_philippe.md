@@ -29,6 +29,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
 1. **1965**:
     - Charles Kao e George Hockham, da companhia britânica Standard Telephones and Cables (STC), conseguem pela primeira vez promover fibras óticas como meio de comunicação.
     - Fundação da Rede Globo.
+    - Fundação da Embratel.
 1. **1967**: Primeiro evento CES (Consumer Electronics Show).
 1. **1968**:
     - "A mãe de todos os demos", por Engelbart, demonstrando hipertexto e computação colaborativa.
@@ -50,6 +51,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Criação da linguagem C, por Dennis Ritchie no Bell Labs.
         - C ainda é uma das linguagens de infraestrutura mais utilizadas do mundo.
         - É também a base da maioria dos browsers.
+    - Criação da estatal brasileira Telebrás.
 1. **1973**:
     - TCP/IP
         - Menção breve às 7 camadas da internet (OSI Model (Open Systems Interconnection model)).
@@ -59,6 +61,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Elizabeth Feinler cria os sufixos .com, .edu, .gov, .org e .net.
     - Vint Cerf e Robert Kahn fazem a primeira menção do termo "internet".
     - Primeira versão pública e comercial da internet.
+    - IBM desenvolve o primeiro banco de dados SQL.
 1. **1975**: Fundação da Microsoft.
 1. **1976**:
     - Fundação da Apple.
@@ -86,6 +89,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
 1. **1984**: Tom Love e Brad Cox publicam Objective-C.
     - A versão/evolução OOP de C.
     - Será a linguagem do SO NEXT, levado à Apple pelo Steve Jobs, e que, depois, também será a linguagem do iOS.
+    - Fundação da Cisco.
 1. **1985**:
     - Bjarne Stroustroup, do Bell Labs, completa o primeiro design da linguagem de programação C++, a evolução supostamente canônica de C.
         - E que será utilizada na construção do Bitcoin, dentre outros lugares chaves na história da internet.
@@ -118,6 +122,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
         - É um tópico extenso.
         - Será a linguagem da ciência de dados no futuro.
     - Introdução do software Adobe Premiere, de edição de vídeo.
+    - Fundação da NET.
 1. **1992**: criação do browser de terminal Lynx.
 1. **1993**:
     - Padronização do DSL (conexão à internet via linha telefônica)
@@ -159,6 +164,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Quakeworld é lançado, a versão multiplayer de Quake.
     - John O'Sullivan patenteia a tecnologia que possibilitará o Wi-Fi, tentando, na verdade, detectar buracos negros do tamanho de átomos.
         - Ele ganhará mais de US$ 430M em royalties na patente, especialmente depois de um longo processo de indenização.
+    - Fundação da chinesa TP-Link.
 1. **1997**:
     - Fundação do Netflix.
     - O Partido Comunista Chinês (PCC) &mdash; Ministério da Segurança Pública &mdash; publica e explicitamente declara suas proibições sobre múltiplas atividades na internet, dando origem ao termo "A Grande Firewall da China".
@@ -173,6 +179,9 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Lançamento do Starcraft.
     - Primeiro site de apostas de Poker online com dinheiro real.
     - Fundação da Tencent.
+    - Privatização da Telebrás.
+        - A Lei Geral de Telecomunicações é de 1995.
+    - Primeira menção do termo NoSQL.
 1. **1999**:
     - Fundação da Mozilla
          - Mozilla (Mosaic Killa)/Firefox é criada com os restos do Netscape. Aos poucos, torna-se a opção de quem quer algo a mais na internet.
@@ -238,6 +247,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Fundação do Skype.
     - O mod de Warcraft III extremamente popular DotA (Defense of the Ancients) é lançado.
     - Criação do Myspace.
+    - Fundação da VIvo a partir da Telefónica e da Portugal Telecom.
 1. **2004**:
     - Fundação do Facebook.
     - Nasce a linguagem de documentação Markdown, por John Gruber e Aaron Swartz.
@@ -297,6 +307,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
         - Github foi originalmente construído com Ruby on Rails.
     - Aparece a primeira ferramenta de inspeção de browser.
     - Nasce a Google Cloud Platform, a principal concorrente da AWS.
+    - Começa a Claro, um serviço de TV por assinatura da Via Embratel.
 1. **2009**:
     - Fundação da ExpressVPN.
     - Nascimento do WhatsApp.
