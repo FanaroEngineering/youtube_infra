@@ -20,6 +20,7 @@ Esta linha do tempo será objeto de melhora contínua, sinta-se à vontade para 
 Ainda não incluí eventos sobre velocidades na internet, pois elas variam demais em diferentes regiões do planeta, o que dificulta homogenizar a linha do tempo.
 
 1. **1925**: Fundação da Bell Labs, laboratório que criou inúmeras inovações em eletrônica.
+    - É basicamente a versão original da incubadora (de startups).
 1. **1947**: Cientistas no Bell Labs inventam o transistor moderno.
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
@@ -379,7 +380,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Firefox morre, e Google colhe os pedaços.
     - Fim do Adobe Flash.
     - IE é descontinuado.
-    - Microsoft apela ao chromium, e, então, nasce o novo Edge.
+    - Microsoft apela ao Chromium, e, então, nasce o novo Edge.
 1. **2021**:
     - Mais uma bolha do Bitcoin, no meio de uma pandemia.
     - NFTs disparam e criam um mercado de centenas de bilhões de dólares.
