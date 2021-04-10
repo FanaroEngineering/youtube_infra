@@ -174,6 +174,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Primeiras ferramentas de blog para leigos.
     - Fundação da Google.
     - Fundação do PayPal.
+        - PayPal Mafia.
     - Primeira publicação do DOM (Document Object Model).
         - A padronização, em árvore, de como um documento HTML/XML deve ser traduzido em objetos pela linguagem de programação que o manipula.
     - Lançamento do Starcraft.
@@ -308,12 +309,15 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Aparece a primeira ferramenta de inspeção de browser.
     - Nasce a Google Cloud Platform, a principal concorrente da AWS.
     - Começa a Claro, um serviço de TV por assinatura da Via Embratel.
+    - Fundação do 9GAG.
 1. **2009**:
     - Fundação da ExpressVPN.
     - Nascimento do WhatsApp.
     - Lançamento da Uber.
     - Fundação do Dropbox.
         - Apostam e capitalizam em viralidade para crescer exponencialmente.
+    - Fundação do site Quora.
+    - Trump cria uma conta no Twitter.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
@@ -350,6 +354,8 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Fundação do Slack.
     - Publicação do Telegram.
     - Vine (Twitter).
+    - Publicação do aplicativo Robinhood, que faz com que seja possível operar na bolsa de valores de maneira simplificada e supostamente sem taxas.
+    - Trump aumenta sua atividade no Twitter e começa a discutir política.
 1. **2014**:
     - Jeff Atwood e outros fundam o Discourse, uma plataforma que modulariza e moderniza fóruns online.
     - Lançamento do aplicativo Signal.
@@ -371,6 +377,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
     - Transmissões ao vivo são lançadas na plataforma principal do YouTube.
         - A funcionalidade de Super Chat é lançada pouco depois.
+    - QAnon aparece pela primeira vez nos fóruns do 4chan.
 1. **2018**:
     - Lançamento do Starlink, pela SpaceX do Elon Musk, que visa dar acesso a internet ao mundo inteiro, via uma constelação de satélites.
         - As velocidades são aparentemente bem razoáveis.
@@ -395,6 +402,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - IE é descontinuado.
     - Microsoft apela ao Chromium, e, então, nasce o novo Edge.
 1. **2021**:
+    - Reddit consegue utilizar Robinhood e outras ferramentas para espremer Hedge Funds em Wall Street (Gamestop).
     - Mais uma bolha do Bitcoin, no meio de uma pandemia.
     - NFTs disparam e criam um mercado de centenas de bilhões de dólares.
         - Beeple vende uma coleção de suas obras por US$ 69M.
