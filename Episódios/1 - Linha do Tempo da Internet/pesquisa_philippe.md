@@ -98,11 +98,14 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Michael Stanton ajuda a trazer a internet ao Brasil. Em 1989, o Brasil terá sua primeira rede acadêmica.
     - Douglas Cormer escreve o primeiro livro sobre TCP/IP.
     - Primeira versão do Photoshop (fora da Adobe).
+1. **1988**: Licença de código aberto BSD.
 1. **1989**:
     - Archie Query, o primeiro buscador da internet.
     - Tim Berners-Lee cria a World Wide Web.
         - A world wide web é basicamente software rodando na infraestrutura da internet. É software focado em documentos, que utiliza o protocolo HTTP, que, por sua vez, está em cima do TCP/IP.
         - Se você se conectar, por exemplo, a um aplicativo de chat, provavelmente você não utilizará nada relacionado à World Wide Web, apesar de que talvez utilize HTTP e TCP/IP.
+    - Licença de código aberto GNU GPL (General Public License).
+        - Free as in Freedom.
 1. **1990**:
     - Criação do Linux, a base da imensa maioria dos servidores da internet.
     - World-Wide Web web browser (1990), por Tim Berners-Lee, o criador da World Wide Web.
