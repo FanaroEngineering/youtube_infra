@@ -366,6 +366,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Google sua versão mais moderna do React: Angular.
     - Lançamento do Pokémon Go.
     - Lançamento do TikTok.
+    - A União Europeia (UE) passa a GDPR (General Data Protection Regulation).
 1. **2017**:
     - Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
     - Transmissões ao vivo são lançadas na plataforma principal do YouTube.
@@ -374,6 +375,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Lançamento do Starlink, pela SpaceX do Elon Musk, que visa dar acesso a internet ao mundo inteiro, via uma constelação de satélites.
         - As velocidades são aparentemente bem razoáveis.
     - O casamento real entre Meghan Markle e o príncipe Harry é transmitido no YouTube ao vivo, com um pico de mais de 1.3M de telespectadores.
+    - Brasil passa a Lei Geral de Proteção de Dados Pessoais (LGPDP).
 1. **2019**:
     - Primeira publicação do browser Brave.
         - Brave é lançado por um dos primeiros integrantes da Mozilla e criador do JavaScript, Brendan Eich.
