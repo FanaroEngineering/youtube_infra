@@ -66,6 +66,10 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
 1. **1976**:
     - Fundação da Apple.
     - Publicação do algoritmo de troca anônima de chaves Diffie-Hellman, que origina a possibilidade de criptografia assimétrica.
+    - Richard Dawkins publica o livro *The Selfish Gene* e nasce a primeira menção ao termo *meme*.
+        - O termo aparece aqui pela primeira vez, mas já haviam ocorrido manifestações do fenômeno, especialmente relaciona a grafiti.
+    - Disney consegue fazer lobby nos EUA para consagrar sua primeira extensão de copyright para o Mickey Mouse. É o começo da batalha hipócrita que irá mudar a indústria da arte para sempre, construindo o pesadelo de direitos autorais para criadores na internet.
+        - A maior parte do que é o Mickey Mouse hoje é um amálgama de padrões vistos em filmes da época &mdash; início dos anos 1900.
 1. **1977**: Publicação do sistema de criptografia assimétrica RSA, o primeiro do tipo.
 1. **1978**:
     - O primeiro sistema GPS (Global Positioning System) entra em funcionamento.
@@ -126,7 +130,10 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
         - Será a linguagem da ciência de dados no futuro.
     - Introdução do software Adobe Premiere, de edição de vídeo.
     - Fundação da NET.
-1. **1992**: criação do browser de terminal Lynx.
+1. **1992**:
+    - Criação do browser de terminal Lynx.
+    - Primeira menção do termo "trollar" no contexto da internet.
+        - Pelo menos é essa a primeira menção registrada no dicionário de Oxford.
 1. **1993**:
     - Padronização do DSL (conexão à internet via linha telefônica)
     - Browser Mosaic: um software mais agradável para se navegar a web.
@@ -279,6 +286,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Paul Graham e outros fundam o Y Combinator, companhia que ajuda startups a dar certo e basicamente criou o conceito de incubadora.
         - Alguns dos grandes sucessos do Y Combinator: Stripe, Airbnb, Cruise Automation, DoorDash, Coinbase, Instacart, Dropbox, Twitch, and Reddit.
         - Manejam US$ 300bi (2021).
+    - Criação do cartoon Pepe the Frog.
 1. **2006**:
     - Google compra o YouTube.
     - Nasce o jQuery.
@@ -376,6 +384,8 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Lançamento do Pokémon Go.
     - Lançamento do TikTok.
     - A União Europeia (UE) passa a GDPR (General Data Protection Regulation).
+    - Pepe the Frog ajuda a eleger Trump.
+        - Basicamente vindo do de trolls no 4chan.
 1. **2017**:
     - Lançamento do PubG, primeiro FPS de sucesso de alta qualidade e pouco atraso para dispositivos móveis.
     - Transmissões ao vivo são lançadas na plataforma principal do YouTube.
