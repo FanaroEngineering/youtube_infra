@@ -34,15 +34,16 @@ A princípio, talvez o melhor formato para este episódio seja o de uma *entrevi
     - Ao que mais é possível traçar um paralelo, talvez Code Review ou Ronda na equipe?
 1. Que conselhos você daria para quem está começando em programação?
     - Dojos? Leituras? Iniciar projetos de interesse? Sites?
-3. Go é um jogo muito desconhecido, portanto encontrar informação sobre o assunto pode ser bastante difícil, especialmente considerando que português é uma língua muito distante das asiáticas.
+1. Go é um jogo muito desconhecido, portanto encontrar informação sobre o assunto pode ser bastante difícil, especialmente considerando que português é uma língua muito distante das asiáticas.
     - Isso foi um obstáculo para você? Você já sabia inglês na época? Talvez japonês ou alguma outra língua asiática?
     - Todo esse esforço em melhorar como pesquisador se propagou para outras áreas da sua vida?
-4. Go ajudou a melhor ensinar e/ou com insegurança sobre conhecimento?
+1. Go ajudou a melhor ensinar e/ou com insegurança sobre conhecimento?
     - Quando é que insegurança se torna síndrome do impostor?
-5. E que conselhos você daria para quem está começando no Go?
-7. Qual é a diferença entre um jogador dan e um jogador kyu?
-8. Por que jogar Go?
+1. E que conselhos você daria para quem está começando no Go?
+    - O que a revolução da IA nos ensinou sobre maestria?
+1. Qual é a diferença entre um jogador dan e um jogador kyu?
+1. Por que jogar Go?
     - Além de tudo que já foi discutido, há mais algum motivo não citado?
-9. Você possui algum projeto que gostaria de mencionar?
+1. Você possui algum projeto que gostaria de mencionar?
     - Algum relacionado ao Go?
-10. Alguma nota final?
+1. Alguma nota final?
