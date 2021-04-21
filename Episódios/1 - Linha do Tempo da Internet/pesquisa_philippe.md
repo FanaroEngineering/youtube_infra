@@ -502,6 +502,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
     - [Mental Outlaw - Gemini - An Even Better Internet Protocol][mental_outlaw_gemini]
     - [ColdFusion - Scandal and Betrayal: The Story of How Twitter Started][coldfusion_twitter]
     - [ColdFusion - The Strange Origins of Wi-Fi – An Australian Invention?][coldfusion_wifi]
+    - [Computerphile - Transport Layer Security (TLS)][computerphile_tls]
 - Séries de TV
     - [Halt and Catch Fire][halt_and_catch_fire]
         - Começa com um script baseado na história da Apple, mas a última temporada é baseada na história do Netscape e Yahoo/Google.
@@ -526,6 +527,7 @@ Lembro que, além das referências abaixo, consultei inúmeras vezes a Wikipédi
 [coldfusion_internet]: https://youtu.be/8sTy8466MoE
 [coldfusion_twitter]: https://youtu.be/p8N0xN0ihMA
 [coldfusion_wifi]: https://youtu.be/McbsxihcQS0
+[computerphile_tls]: https://www.youtube.com/watch?v=0TLDTodL7Lc&list=WL&index=5
 [distrotube_minimal_browsers]: https://youtu.be/b8kxdiskGzI
 [fireship_js]: https://youtu.be/Sh6lK57Cuk4
 [halt_and_catch_fire]: https://www.imdb.com/title/tt2543312/
