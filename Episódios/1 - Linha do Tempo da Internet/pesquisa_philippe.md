@@ -391,6 +391,10 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Transmissões ao vivo são lançadas na plataforma principal do YouTube.
         - A funcionalidade de Super Chat é lançada pouco depois.
     - QAnon aparece pela primeira vez nos fóruns do 4chan.
+    - Lançamento do Microsoft Teams
+        - Sucessor do Skype.
+            - Boa maneira de começar do zero, sem bugs.
+        - Maneira principal de matar o concorrente Slack.
 1. **2018**:
     - Lançamento do Starlink, pela SpaceX do Elon Musk, que visa dar acesso a internet ao mundo inteiro, via uma constelação de satélites.
         - As velocidades são aparentemente bem razoáveis.
