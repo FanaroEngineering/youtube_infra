@@ -10,11 +10,13 @@
 
 ### 4. Programação
 
-### 5. Música
+### 5. Ciência e Engenharia
 
-### 6. Esportes
+### 6. Música
 
-### 7. Notícias
+### 7. Esportes
+
+### 8. Notícias
 
 ## Todos os Canais
 
@@ -31,6 +33,7 @@ Em ordem alfabética:
 - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
 - [Andrew Dotson](https://www.youtube.com/channel/UCnFmWQbVW_YbqPQZGNuq8sA)
 - [Asian Boss](https://www.youtube.com/channel/UC2-_WWPT_124iN6jiym4fOw)
+- [Aurélien Géron](https://www.youtube.com/channel/UCCvGd1WBMpFQ_vtC89VF2qA)
 - [BIBA Baduk](https://www.youtube.com/channel/UCe4H0Hd9Ci3gqimoXim6bZA)
 - [BJJ Fanatics](https://www.youtube.com/channel/UCAqme-CE-yLm01BV5nUjPPA)
 - [Barbixas](https://www.youtube.com/channel/UCZbgt7KIEF_755Xm14JpkCQ)
@@ -40,6 +43,7 @@ Em ordem alfabética:
 - [Big Think](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
 - [BoardGameGeek](https://www.youtube.com/user/boardgamegeektv)
 - [Bouldering Bobat](https://www.youtube.com/channel/UCIRjdHLsHq6xdtAHAmoueqg)
+- [Boyinaband](https://www.youtube.com/channel/UCQ4FyiI_1mWI2AtLS5ChdPQ)
 - [Brodie Robertson](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)
 - [CaseyNeistat](https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ)
 - [Catalyst Athletics](https://www.youtube.com/channel/UCOe24b2O8eoeHz9fwWuKRVA)
@@ -73,12 +77,15 @@ Em ordem alfabética:
 - [Esther Perel](https://www.youtube.com/channel/UC4eN7PS9mi8__4EYxy6VpFw)
 - [Estratégia Concursos](https://www.youtube.com/channel/UChvwkhC3eHxJsVxW_ItDjdA)
 - [Ethan Becker](https://www.youtube.com/channel/UCwmDCkPQojch5khdMYCb0EA)
+- [FightinCowboy](https://www.youtube.com/channel/UC9N0DmacOi4iWKQyygX89OQ)
 - [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 - [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
 - [Flashgitz](https://www.youtube.com/channel/UCNnKprAG-MWLsk-GsbsC2BA)
 - [FloGrappling](https://www.youtube.com/channel/UCeOvhU6RbmEj8GKFiIMWxKQ)
 - [Flutter Explained](https://www.youtube.com/user/Lionranger)
+- [François Husson](https://www.youtube.com/channel/UCyz4M1pwJBNfjMFaUCHCNUQ)
 - [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
+- [Gabriel Iglesias](https://www.youtube.com/channel/UCUxc0iEpV8wZV4WLOui0RwQ)
 - [Garage Gym Reviews](https://www.youtube.com/channel/UCV_zy48AlwwGpdJEka1ay7w)
 - [Garry Tan](https://www.youtube.com/channel/UCIBgYfDjtWlbJhg--Z4sOgQ)
 - [Gavin Freeborn](https://www.youtube.com/channel/UCJetJ7nDNLlEzDLXv7KIo0w)
@@ -88,6 +95,7 @@ Em ordem alfabética:
 - [Golden Moustache](https://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ)
 - [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw)
 - [Google TechTalks](https://www.youtube.com/user/GoogleTechTalks)
+- [Gordon Ramsay](https://www.youtube.com/channel/UCIEv3lZ_tNXHzL3ox-_uUGQ)
 - [Graphic design for Free](https://www.youtube.com/channel/UCBUCIHuRrWxPOwkh2oO-Hww)
 - [Great Big Story](https://www.youtube.com/channel/UCajXeitgFL-rb5-gXI-aG8Q)
 - [Greg Hurrell](https://www.youtube.com/channel/UCXPHFM88IlFn68OmLwtPmZA)
@@ -112,11 +120,13 @@ Em ordem alfabética:
 - [LegalEagle](https://www.youtube.com/channel/UCpa-Zb0ZcQjTCPP1Dx_1M8Q)
 - [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA)
 - [LifeAccordingToJimmy](https://www.youtube.com/channel/UCtKf_mQKvfiPvpxyKBVWBoQ)
+- [Lindie Botes](https://www.youtube.com/channel/UCjVwBKqRh8ckPWhfD5UDKcg)
 - [Lofi Girl](https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow)
 - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [MMA On Point](https://www.youtube.com/channel/UCbQ_WJsfwZvrSYHv6ywzyOA)
 - [Mahamed Aly](https://www.youtube.com/channel/UCHO1O7V446xi3UaBSJ8UoMw)
+- [Mani the Monkey](https://www.youtube.com/channel/UCvkGOw5JmJ3TPdXNiEFwq6Q)
 - [Mark Manson](https://www.youtube.com/channel/UC0TnW9acNxqeojxXDMbohcA)
 - [Max Joseph](https://www.youtube.com/channel/UCR0tBVaZPaSqmdqkw7oYmcw)
 - [McDojoLife](https://www.youtube.com/channel/UCj0hSixOVSV4HvmbAQjk0WA)
@@ -130,6 +140,7 @@ Em ordem alfabética:
 - [NORMAN FAIT DES VIDÉOS](https://www.youtube.com/channel/UCww2zZWg4Cf5xcRKG-ThmXQ)
 - [Namorwp](https://www.youtube.com/channel/UCoxiP4i82IqMv3PtZ9Nn7iQ)
 - [Nerdwriter1](https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg)
+- [Nick Sibicky](https://www.youtube.com/channel/UC_msctwlIh2cwM8yAtaju1A)
 - [Nick's Strength and Power](https://www.youtube.com/channel/UCEr4irFkzHnhPt0uG8lOpug)
 - [NotebookcheckReviews](https://www.youtube.com/channel/UCvfUcuSDNOoFsAPsiGdaGPg)
 - [Paolo fromTOKYO](https://www.youtube.com/channel/UCixD9UbKvDxzGNiPC_fgHyA)
@@ -151,11 +162,14 @@ Em ordem alfabética:
 - [Shut Up & Sit Down](https://www.youtube.com/channel/UCyRhIGDUKdIOw07Pd8pHxCw)
 - [Slavoj Žižek - Topic](https://www.youtube.com/channel/UCMwDaFDp34SHaSD2C0IK88A)
 - [Squat University](https://www.youtube.com/channel/UCyPYQTT20IgzVw92LDvtClw)
+- [Stand-up Maths](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A)
 - [Stephen Wonderboy Thompson](https://www.youtube.com/channel/UCL89Opg7KVwX7CWE9IVOHlQ)
+- [Steve Kaufmann - lingosteve](https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ)
 - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
 - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
 - [Tech Pills](https://www.youtube.com/channel/UCVqlDOUyIjMWqBUhp73a90g)
 - [Tensor Programming](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg)
+- [The B1M](https://www.youtube.com/channel/UC6n8I1UDTKP1IWjQMg6_TwA)
 - [The Dice Tower](https://www.youtube.com/channel/UCiwBbXQlljGjKtKhcdMliRA)
 - [The Drip](https://www.youtube.com/channel/UCMMCy1le81jHY8rwcaqQrtA)
 - [The Futur](https://www.youtube.com/channel/UC-b3c7kxa5vU-bnmaROgvog)
@@ -166,6 +180,7 @@ Em ordem alfabética:
 - [Thomas Frank](https://www.youtube.com/channel/UCG-KntY7aVnIGXYEBQvmBAQ)
 - [Three Arrows](https://www.youtube.com/channel/UCCT8a7d6S6RJUivBgNRsiYg)
 - [Tinkernut](https://www.youtube.com/channel/UCZDA1kA3y3EIg25BpcHSpwQ)
+- [Today I Found Out](https://www.youtube.com/channel/UC64UiPJwM_e9AqAd7RiD7JA)
 - [Tom Thum](https://www.youtube.com/channel/UCH0splG0gddnwvLNQGzWeTg)
 - [TomSka](https://www.youtube.com/channel/UCOYWgypDktXdb-HfZnSMK6A)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
@@ -186,6 +201,7 @@ Em ordem alfabética:
 - [YouTube Creators](https://www.youtube.com/channel/UCkRfArvrzheW2E7b6SVT7vQ)
 - [Yunguseng Dojang](https://www.youtube.com/channel/UCEpsC_-9indqRsOjYuFStBQ)
 - [Zack Telander](https://www.youtube.com/channel/UC94_fvLx7abZgs9LIkM7jxw)
+- [agadmator's Chess Channel](https://www.youtube.com/channel/UCL5YbN5WLFD8dLIegT5QAbA)
 - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
 - [engineerguy](https://www.youtube.com/channel/UC2bkHVIDjXS7sgrgjFtzOXQ)
 - [fjamie013](https://www.youtube.com/channel/UCc4HkBij_QXwd_pHkUpg8Ng)
@@ -193,8 +209,11 @@ Em ordem alfabética:
 - [george hotz archive](https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg)
 - [jasonofthel33t](https://www.youtube.com/channel/UCB31oh4SvSvz5LCM84Pov9w)
 - [laowhy86](https://www.youtube.com/channel/UChvithwOECK5g_19TjldMKw)
+- [minutephysics](https://www.youtube.com/channel/UCUHW94eEFW7hkUMVaZz4eDg)
 - [serpentza](https://www.youtube.com/channel/UCl7mAGnY4jh4Ps8rhhh8XZg)
+- [singingbanana](https://www.youtube.com/channel/UCMpizQXRt817D0qpBQZ2TlA)
 - [teamliquidnet](https://www.youtube.com/channel/UC-teGPup3KKf9hoAg5yJk8Q)
 - [tutoriaLinux](https://www.youtube.com/c/tutoriaLinux/videos)
 - [vidIQ](https://www.youtube.com/channel/UCZLFu8bHbwtnIgWLg5UtINw)
+- [vlogbrothers](https://www.youtube.com/channel/UCGaVdbSav8xWuFWTadK6loA)
 - [바둑 BADUK TV](https://www.youtube.com/channel/UC_kyhuCGhgbur6g7NJ_Nrqw)
