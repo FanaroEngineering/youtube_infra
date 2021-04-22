@@ -1,5 +1,40 @@
 # YouTubers Favoritos Philippe
 
+* [Melhores Canais](#melhores-canais)
+* [Por Categoria](#por-categoria)
+  * [1. Comédia](#1.-comédia)
+  * [2. Filosofia](#2.-filosofia)
+  * [3. História](#3.-história)
+  * [4. Produtividade e Leitura](#4.-produtividade-e-leitura)
+  * [5. Programação e Software](#5.-programação-e-software)
+  * [6. Linux e Hardware](#6.-linux-e-hardware)
+  * [7. Negócios e Startups](#7.-negócios-e-startups)
+  * [8. Ciência, Matemática e Engenharia](#8.-ciência,-matemática-e-engenharia)
+  * [9. Música](#9.-música)
+  * [10. Esportes](#10.-esportes)
+    * [10.1 Jiu Jitsu e MMA](#10.1-jiu-jitsu-e-mma)
+    * [10.2. Musculação e Levantamento de Peso](#10.2.-musculação-e-levantamento-de-peso)
+    * [10.3. Escalada](#10.3.-escalada)
+    * [10.4. Pólo Aquático](#10.4.-pólo-aquático)
+    * [10.5. Basquete](#10.5.-basquete)
+  * [11. Videogames](#11.-videogames)
+  * [12. Notícias e Política](#12.-notícias-e-política)
+  * [13. China e Ásia em Geral](#13.-china-e-ásia-em-geral)
+  * [14. Go](#14.-go)
+  * [15. Jogos de Tabuleiro](#15.-jogos-de-tabuleiro)
+  * [16. Design e Produção de Vídeo](#16.-design-e-produção-de-vídeo)
+  * [18. Línguas](#18.-línguas)
+  * [19. Direito](#19.-direito)
+  * [20. Cozinha](#20.-cozinha)
+  * [21. Mágica](#21.-mágica)
+  * [22. Bitcoin e Blockchain](#22.-bitcoin-e-blockchain)
+  * [23. Outros e Miscelânea](#23.-outros-e-miscelânea)
+* [Todos os Canais](#todos-os-canais)
+
+## Melhores Canais
+
+
+
 ## Por Categoria
 
 Em ordem alfabética &mdash; note que alguns muitos canais poderiam ter sido categorizados em mais de uma categoria, porém, para simplificar, deixei-os somente em uma &mdash;:
@@ -35,6 +70,7 @@ Em ordem alfabética &mdash; note que alguns muitos canais poderiam ter sido cat
 
 - [Academy of Ideas](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
 - [Big Think](https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg)
+- [Carefree Wandering - YouTube](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ)
 - [Einzelgänger](https://www.youtube.com/channel/UCybBViio_TH_uiFFDJuz5tg)
 - [Esther Perel](https://www.youtube.com/channel/UC4eN7PS9mi8__4EYxy6VpFw)
 - [Knowing Better](https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA)
@@ -307,6 +343,7 @@ Em ordem alfabética:
 - [Bouldering Bobat](https://www.youtube.com/channel/UCIRjdHLsHq6xdtAHAmoueqg)
 - [Boyinaband](https://www.youtube.com/channel/UCQ4FyiI_1mWI2AtLS5ChdPQ)
 - [Brodie Robertson](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)
+- [Carefree Wandering - YouTube](https://www.youtube.com/channel/UCnEuIogVV2Mv6Q1a3nHIRsQ)
 - [CaseyNeistat](https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ)
 - [Catalyst Athletics](https://www.youtube.com/channel/UCOe24b2O8eoeHz9fwWuKRVA)
 - [Chewjitsu](https://www.youtube.com/channel/UCGCZBBvu7ZnqHYHuScODbAQ)
