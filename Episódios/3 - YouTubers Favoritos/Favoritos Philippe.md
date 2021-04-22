@@ -1,5 +1,9 @@
 # YouTubers Favoritos Philippe
 
+---
+
+**Índice**
+
 * [Melhores Canais](#melhores-canais)
 * [Por Categoria](#por-categoria)
   * [1. Comédia](#1.-comédia)
@@ -30,6 +34,8 @@
   * [22. Bitcoin e Blockchain](#22.-bitcoin-e-blockchain)
   * [23. Outros e Miscelânea](#23.-outros-e-miscelânea)
 * [Todos os Canais](#todos-os-canais)
+
+---
 
 ## Melhores Canais
 
