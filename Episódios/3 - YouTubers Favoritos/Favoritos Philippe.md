@@ -40,6 +40,7 @@
 ## Melhores Canais
 
 - Comédia
+    - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
     - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
     - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
     - [The Onion](https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A)
