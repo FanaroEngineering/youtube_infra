@@ -73,6 +73,7 @@
     - [GOTO Conferences](https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA)
     - [jasonofthel33t](https://www.youtube.com/channel/UCB31oh4SvSvz5LCM84Pov9w)
     - [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA)
+    - [Tsoding](https://www.youtube.com/channel/UCEbYhDd6c6vngsF5PQpFVWg)
 - Linux e Hardware
     - [ChrisAtMachine](https://www.youtube.com/channel/UCS97tchJDq17Qms3cux8wcA)
     - [Brodie Robertson](https://www.youtube.com/channel/UCld68syR8Wi-GY_n4CaoJGA)
@@ -247,6 +248,7 @@ Em ordem alfabética &mdash; note que alguns muitos canais poderiam ter sido cat
 - [Kent Beck](https://www.youtube.com/channel/UCOp_iO2iUgFm8i9DrujzjUw)
 - [Philipp Hagenlocher](https://www.youtube.com/channel/UC3xdLFFsqG701QAyGJIPT1g)
 - [Reso Coder](https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA)
+- [Tsoding](https://www.youtube.com/channel/UCEbYhDd6c6vngsF5PQpFVWg)
 
 ### 6. Linux e Hardware
 
@@ -627,6 +629,7 @@ Em ordem alfabética:
 - [TomSka](https://www.youtube.com/channel/UCOYWgypDktXdb-HfZnSMK6A)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [Tren Black](https://www.youtube.com/channel/UCSSBvqWNPq_qO3_W4EJiOAA)
+- [Tsoding](https://www.youtube.com/channel/UCEbYhDd6c6vngsF5PQpFVWg)
 - [tutoriaLinux](https://www.youtube.com/c/tutoriaLinux/videos)
 - [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 - [TwoSetViolin](https://www.youtube.com/channel/UCAzKFALPuF_EPe-AEI0WFFw)
