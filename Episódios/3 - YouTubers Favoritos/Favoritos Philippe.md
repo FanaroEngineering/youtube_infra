@@ -51,6 +51,7 @@
     - [Mark Manson](https://www.youtube.com/channel/UC0TnW9acNxqeojxXDMbohcA)
     - [Max Joseph](https://www.youtube.com/channel/UCR0tBVaZPaSqmdqkw7oYmcw)
     - [Slavoj Žižek - Topic](https://www.youtube.com/channel/UCMwDaFDp34SHaSD2C0IK88A)
+    - [Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
     - [The School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 - História
     - [ColdFusion](https://www.youtube.com/channel/UC4QZ_LsYcvcq7qOsOhpAX4A)
@@ -202,6 +203,7 @@ Em ordem alfabética &mdash; note que alguns muitos canais poderiam ter sido cat
 - [Mark Manson](https://www.youtube.com/channel/UC0TnW9acNxqeojxXDMbohcA)
 - [Max Joseph](https://www.youtube.com/channel/UCR0tBVaZPaSqmdqkw7oYmcw)
 - [Slavoj Žižek - Topic](https://www.youtube.com/channel/UCMwDaFDp34SHaSD2C0IK88A)
+- [Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 - [The School of Life](https://www.youtube.com/channel/UC7IcJI8PUf5Z3zKxnZvTBog)
 
 ### 3. História
@@ -610,6 +612,7 @@ Em ordem alfabética:
 - [Stephen Wonderboy Thompson](https://www.youtube.com/channel/UCL89Opg7KVwX7CWE9IVOHlQ)
 - [Steve Kaufmann - lingosteve](https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ)
 - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
+- [Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
 - [teamliquidnet](https://www.youtube.com/channel/UC-teGPup3KKf9hoAg5yJk8Q)
 - [Tensor Programming](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg)
