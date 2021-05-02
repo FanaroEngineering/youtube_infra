@@ -4,6 +4,8 @@
 
 Sugiro o tema "interseção entre programação e Go", já que o Laércio não só é jogador de Go como o apredeu no contexto da programação logo de início.
 
+> [Slavoj Zizek discutindo o paradoxo das regras no trabalho e na sociedade](https://youtu.be/_x0eyNkNpL0?t=2255).
+
 ## Tópicos/Perguntas
 
 A princípio, talvez o melhor formato para este episódio seja o de uma *entrevista*. Podemos discutir particularmente os tópicos ou mesmo as perguntas exatamente, mas também gostaria de deixar espaço para que as respostas incluam improviso.
