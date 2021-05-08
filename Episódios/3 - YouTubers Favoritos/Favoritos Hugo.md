@@ -16,7 +16,7 @@
 # MEU CANAIS FAVORITOS
 
 1. Like to make stuff
-2. Fix this build that 
+2. Fix this build that
 3. B Is for build
 4. Junk yard digs
 5. Svdelos
