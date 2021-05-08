@@ -1,8 +1,16 @@
 # Infraestrutura do Canal Philippe Fanaro de YouTube
 
+## ApocalipseCast
+
 A princípio, os vídeos do podcast estarão no canal [*Philippe Fanaro*][youtube], porém eles poderão acabar indo para um outro canal, criado somente para manter o podcast.
 
-## Processo de Criação
+### Episódios
+
+A playlist com todos os episódios está [aqui](https://www.youtube.com/playlist?list=PLMYMhzMuvitSzRwPHr1o0_b3rp6-OV4rg).
+
+1. [História dos Browsers, Internet e Muito Mais | ApocalipseCast #1 - YouTube](https://www.youtube.com/watch?v=hRIJS-PwZ5w)
+
+### Processo de Criação
 
 1. Uma ideia de episódio é discutida entre [@psygo][psygo] e [@GugaJedi][GugaJedi].
 1. Pesquisa sobre o conteúdo é feita e registrada na pasta respectiva dentro da pasta [Episódios][episodios].
@@ -17,7 +25,7 @@ A princípio, os vídeos do podcast estarão no canal [*Philippe Fanaro*][youtub
 [psygo]: https://github.com/psygo
 [youtube]: https://www.youtube.com/c/PhilippeFanaro
 
-## Convidados
+### Convidados
 
 1. [Laércio Pereira][laercioskt]
 
