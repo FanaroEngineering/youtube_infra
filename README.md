@@ -16,3 +16,10 @@ A princípio, os vídeos do podcast estarão no canal [*Philippe Fanaro*][youtub
 [GugaJedi]: https://github.com/GugaJedi
 [psygo]: https://github.com/psygo
 [youtube]: https://www.youtube.com/c/PhilippeFanaro
+
+## Convidados
+
+1. [Laércio Pereira][laercioskt]
+
+
+[laercioskt]: https://github.com/laercioskt
