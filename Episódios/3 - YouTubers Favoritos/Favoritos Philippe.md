@@ -4,6 +4,7 @@
 
 **Índice**
 
+* [Top 50+](#top-50+)
 * [Melhores dos Melhores](#melhores-dos-melhores)
 * [Melhores Canais](#melhores-canais)
 * [Por Categoria](#por-categoria)
@@ -43,6 +44,7 @@
 - Comédia
     - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
     - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
+    - [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
 - Filosofia
     - [Academy of Ideas](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
     - [Knowing Better](https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA)
@@ -72,6 +74,7 @@
     - [EF - Linux Made Simple](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
     - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
     - [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA)
+    - [System Crafters](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
 - Negócios e Startups
     - [Garry Tan](https://www.youtube.com/channel/UCIBgYfDjtWlbJhg--Z4sOgQ)
     - [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
@@ -128,6 +131,7 @@
 - Comédia
     - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
     - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
+    - [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
     - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
 - Filosofia
     - [Academy of Ideas](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
@@ -160,6 +164,7 @@
     - [EF - Linux Made Simple](https://www.youtube.com/channel/UCX_WM2O-X96URC5n66G-hvw)
     - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
     - [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA)
+    - [System Crafters](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
 - Negócios e Startups
     - [Garry Tan](https://www.youtube.com/channel/UCIBgYfDjtWlbJhg--Z4sOgQ)
     - [Y Combinator](https://www.youtube.com/channel/UCcefcZRL2oaA_uBNeo5UOWg)
@@ -219,6 +224,7 @@
 - Comédia
     - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
     - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
+    - [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
     - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
     - [The Onion](https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A)
 - Filosofia
@@ -263,6 +269,7 @@
     - [Greg Hurrell](https://www.youtube.com/channel/UCXPHFM88IlFn68OmLwtPmZA)
     - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
     - [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA)
+    - [System Crafters](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
 - Negócios e Startups
     - [Garry Tan](https://www.youtube.com/channel/UCIBgYfDjtWlbJhg--Z4sOgQ)
     - [Justin Kan](https://www.youtube.com/channel/UCfRtwc6K_VU9N4OjNnU2P7g)
@@ -359,6 +366,7 @@ Em ordem alfabética &mdash; note que alguns muitos canais poderiam ter sido cat
 - [Golden Moustache](https://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ)
 - [Hasan Minhaj](https://www.youtube.com/channel/UCarEovlrD9QY-fy-Z6apIDQ)
 - [Infinite Elgintensity](https://www.youtube.com/channel/UCljYmI53HACHnVa3d3JfFlw)
+- [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
 - [Laugh Factory](https://www.youtube.com/channel/UCxyCzPY2pjAjrxoSYclpuLg)
 - [LifeAccordingToJimmy](https://www.youtube.com/channel/UCtKf_mQKvfiPvpxyKBVWBoQ)
 - [NORMAN FAIT DES VIDÉOS](https://www.youtube.com/channel/UCww2zZWg4Cf5xcRKG-ThmXQ)
@@ -442,6 +450,7 @@ Em ordem alfabética &mdash; note que alguns muitos canais poderiam ter sido cat
 - [Luke Smith](https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA)
 - [Mental Outlaw](https://www.youtube.com/channel/UC7YOGHUfC1Tb6E4pudI9STA)
 - [NotebookcheckReviews](https://www.youtube.com/channel/UCvfUcuSDNOoFsAPsiGdaGPg)
+- [System Crafters](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
 - [Tensor Programming](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg)
 - [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [Tren Black](https://www.youtube.com/channel/UCSSBvqWNPq_qO3_W4EJiOAA)
@@ -731,6 +740,7 @@ Em ordem alfabética:
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 - [Knight Jiu-Jitsu](https://www.youtube.com/channel/UCDaSNu2fM3JL4VdlSwcFtOw)
 - [Knowing Better](https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA)
+- [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
 - [laowhy86](https://www.youtube.com/channel/UChvithwOECK5g_19TjldMKw)
 - [LastWeekTonight](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ)
 - [Laugh Factory](https://www.youtube.com/channel/UCxyCzPY2pjAjrxoSYclpuLg)
@@ -790,6 +800,7 @@ Em ordem alfabética:
 - [Stephen Wonderboy Thompson](https://www.youtube.com/channel/UCL89Opg7KVwX7CWE9IVOHlQ)
 - [Steve Kaufmann - lingosteve](https://www.youtube.com/channel/UCez-2shYlHQY3LfILBuDYqQ)
 - [Steven Skiena](https://www.youtube.com/channel/UCh27N8m4Jp_rkwx26Q4iclQ)
+- [System Crafters](https://www.youtube.com/channel/UCAiiOTio8Yu69c3XnR7nQBQ)
 - [Talks at Google](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg)
 - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
 - [teamliquidnet](https://www.youtube.com/channel/UC-teGPup3KKf9hoAg5yJk8Q)
