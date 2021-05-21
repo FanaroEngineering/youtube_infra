@@ -21,6 +21,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
 
 1. **1925**: Fundação da Bell Labs, laboratório que criou inúmeras inovações em eletrônica.
     - É basicamente a versão original da incubadora (de startups).
+1. **1940**s: Richard Hamming cria os primeiros códigos de correção de erros. Com isso, é possível utilizar uma quantidade minúscula de bits para corrigir uma grande gama de erros. É o início de um campo extenso de telecomunicações que possibilitou uma banda muito maior de transmissão de dados.
 1. **1947**: Cientistas no Bell Labs inventam o transistor moderno.
 1. **1957**: Sputnik 1, o primeiro satélite artificial da Terra é lançado em órbita.
     - Começa (mais uma) a guerra pela nova era de redes de telecomunicações.
