@@ -150,6 +150,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Fundação da Amazon.
     - Fundação da Jovem Pan.
     - Nasce o conceito de Intranet.
+    - Fundação da Yahoo.
 1. **1995**:
     - Primeira versão do Internet Explorer (IE).
         - Microsoft disponibiliza gratuitamente o IE, efetivamente matando Netscape.
@@ -208,6 +209,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
     - Lançamento do MSN Messenger.
     - Primeira versão do iMovie.
     - Lançamento do Counter-Strike.
+    - Fundação do Buscapé.
 1. **2000**:
     - Internet para a África.
     - Aaron Swartz cria RSS.
@@ -330,6 +332,7 @@ Ainda não incluí eventos sobre velocidades na internet, pois elas variam demai
         - Apostam e capitalizam em viralidade para crescer exponencialmente.
     - Fundação do site Quora.
     - Trump cria uma conta no Twitter.
+    - Microsoft lança o infame buscador Bing.
 1. **2010**:
     - China se torna o maior usuário-nação da internet.
     - Primeiro iPad.
