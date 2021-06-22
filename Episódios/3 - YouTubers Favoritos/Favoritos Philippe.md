@@ -44,7 +44,7 @@
 - Comédia
     - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
     - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
-    - [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
+    - [KRAZAM](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
 - Filosofia
     - [Academy of Ideas](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
     - [Knowing Better](https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA)
@@ -131,7 +131,7 @@
 - Comédia
     - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
     - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
-    - [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
+    - [KRAZAM](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
     - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
 - Filosofia
     - [Academy of Ideas](https://www.youtube.com/channel/UCiRiQGCHGjDLT9FQXFW0I3A)
@@ -224,7 +224,7 @@
 - Comédia
     - [Amada Foca](https://www.youtube.com/channel/UCy83CGJe7nbeRDaqx2QtoMA)
     - [boburnham](https://www.youtube.com/channel/UC81hVmI5eEBIt3s3HQpJd_w)
-    - [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
+    - [KRAZAM](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
     - [Team Coco](https://www.youtube.com/channel/UCi7GJNg51C3jgmYTUwqoUXA)
     - [The Onion](https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A)
 - Filosofia
@@ -366,7 +366,7 @@ Em ordem alfabética &mdash; note que alguns muitos canais poderiam ter sido cat
 - [Golden Moustache](https://www.youtube.com/channel/UCJruTcTs7Gn2Tk7YC-ENeHQ)
 - [Hasan Minhaj](https://www.youtube.com/channel/UCarEovlrD9QY-fy-Z6apIDQ)
 - [Infinite Elgintensity](https://www.youtube.com/channel/UCljYmI53HACHnVa3d3JfFlw)
-- [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
+- [KRAZAM](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
 - [Laugh Factory](https://www.youtube.com/channel/UCxyCzPY2pjAjrxoSYclpuLg)
 - [LifeAccordingToJimmy](https://www.youtube.com/channel/UCtKf_mQKvfiPvpxyKBVWBoQ)
 - [NORMAN FAIT DES VIDÉOS](https://www.youtube.com/channel/UCww2zZWg4Cf5xcRKG-ThmXQ)
@@ -740,7 +740,7 @@ Em ordem alfabética:
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g)
 - [Knight Jiu-Jitsu](https://www.youtube.com/channel/UCDaSNu2fM3JL4VdlSwcFtOw)
 - [Knowing Better](https://www.youtube.com/channel/UC8XjmAEDVZSCQjI150cb4QA)
-- [KRAZAM - YouTube](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
+- [KRAZAM](https://www.youtube.com/channel/UCgBVkKoOAr3ajSdFFLp13_A)
 - [laowhy86](https://www.youtube.com/channel/UChvithwOECK5g_19TjldMKw)
 - [LastWeekTonight](https://www.youtube.com/channel/UC3XTzVzaHQEd30rQbuvCtTQ)
 - [Laugh Factory](https://www.youtube.com/channel/UCxyCzPY2pjAjrxoSYclpuLg)
